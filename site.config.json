@@ -1,0 +1,8 @@
+{
+  "title": "Post-Ops",
+  "tagline": "Write-ups on the things I build: what worked, what broke, what I'd change.",
+  "url": "https://example.com",
+  "author": "Your Name",
+  "intro": "Hi! These are post-ops on my projects: robots, romhacks, little computers, and whatever's on the bench next. Each one covers what I set out to do, what went wrong, and what I'd do differently.",
+  "defaultShell": "grape"
+}

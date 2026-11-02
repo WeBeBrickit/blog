@@ -1,0 +1,9 @@
+// Cloudflare deploy settings. The site is static files only, no server code.
+{
+  "name": "post-ops",
+  "compatibility_date": "2026-10-31",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

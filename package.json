@@ -1,0 +1,13 @@
+{
+  "name": "post-ops",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node build.mjs --dev",
+    "build": "node build.mjs",
+    "font": "python3 tools/make-font.py"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
