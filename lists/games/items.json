@@ -1,0 +1,679 @@
+{
+ "title": "Favorite Games",
+ "description": "My all-time favorite video games, ranked.",
+ "synced": "2026-11-15",
+ "items": [
+  {
+   "title": "Super Mario World",
+   "meta": "1990",
+   "link": "https://en.wikipedia.org/wiki/Super_Mario_World",
+   "cover": "/lists/games/covers/fbc967696c669191f6131d573084088f.jpg"
+  },
+  {
+   "title": "Super Mario 64",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Super_Mario_64",
+   "cover": "/lists/games/covers/78c563c50a11d52828573007f8b10a89.jpg"
+  },
+  {
+   "title": "Pokémon Red",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+   "cover": "/lists/games/covers/301d0adbf3b3be8a19e5dd0c819b3600.jpg"
+  },
+  {
+   "title": "Minecraft",
+   "meta": "2011",
+   "link": "https://en.wikipedia.org/wiki/Minecraft",
+   "cover": "/lists/games/covers/9db798ea3bc473e20a308d4379205ed3.jpg"
+  },
+  {
+   "title": "Rocket League",
+   "meta": "2015",
+   "link": "https://en.wikipedia.org/wiki/Rocket_League",
+   "cover": "/lists/games/covers/2159ab21111f2d258ef0e7bd7c6c95f6.jpg"
+  },
+  {
+   "title": "NHLPA Hockey '93",
+   "meta": "1992",
+   "link": "https://en.wikipedia.org/wiki/NHLPA_Hockey_%2793",
+   "cover": "/lists/games/covers/7f12f547d3aa84b29d474accfcbf6ab2.jpg"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "meta": "1998",
+   "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+   "cover": "/lists/games/covers/1395d2d37d3a1337bae2e3c9c93dea51.jpg"
+  },
+  {
+   "title": "Grand Theft Auto V",
+   "meta": "2013",
+   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+   "cover": "/lists/games/covers/5f20741a386994ca38cae6d6f3e5a6cc.jpg"
+  },
+  {
+   "title": "The Elder Scrolls V: Skyrim",
+   "meta": "2011",
+   "link": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+   "cover": "/lists/games/covers/5b1add0831796b76383c03f557d45fba.jpg"
+  },
+  {
+   "title": "Grand Theft Auto: San Andreas",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+   "cover": "/lists/games/covers/de41518f871ae8f1972c2e623efaa368.jpg"
+  },
+  {
+   "title": "Fallout 3",
+   "meta": "2008",
+   "link": "https://en.wikipedia.org/wiki/Fallout_3",
+   "cover": "/lists/games/covers/c90d35771bd8f6c62c9c70293a2ae6ef.jpg"
+  },
+  {
+   "title": "Fallout: New Vegas",
+   "meta": "2010",
+   "link": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+   "cover": "/lists/games/covers/8b5e186aaf06affb9ccc530d15daf682.jpg"
+  },
+  {
+   "title": "Bully",
+   "meta": "2006",
+   "link": "https://en.wikipedia.org/wiki/Bully_(video_game)",
+   "cover": "/lists/games/covers/00bf599cd875b1e465b8775ca6e1956f.jpg"
+  },
+  {
+   "title": "Ace Combat 3: Electrosphere",
+   "meta": "1999",
+   "link": "https://en.wikipedia.org/wiki/Ace_Combat_3:_Electrosphere",
+   "cover": "/lists/games/covers/1dab48f7cf75e50761f94e25dc7b9c0b.jpg"
+  },
+  {
+   "title": "Burnout 3: Takedown",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/Burnout_3:_Takedown",
+   "cover": "/lists/games/covers/a100af08f05a916ecbf6c914341316cd.jpg"
+  },
+  {
+   "title": "Borderlands 2",
+   "meta": "2012",
+   "link": "https://en.wikipedia.org/wiki/Borderlands_2",
+   "cover": "/lists/games/covers/b278a824f61829fec7973188d33f1725.jpg"
+  },
+  {
+   "title": "Monster Rancher",
+   "meta": "1997",
+   "link": "https://en.wikipedia.org/wiki/Monster_Rancher_(video_game)",
+   "cover": "/lists/games/covers/815f70ccad428c02768350808af36ecf.jpg"
+  },
+  {
+   "title": "Halo 2",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/Halo_2",
+   "cover": "/lists/games/covers/9f22f9d463097cc7898a4521808b84d9.jpg"
+  },
+  {
+   "title": "Halo: Combat Evolved",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+   "cover": "/lists/games/covers/b37922c8a10c7cbd1579021c7d71189f.jpg"
+  },
+  {
+   "title": "Jak and Daxter: The Precursor Legacy",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Jak_and_Daxter:_The_Precursor_Legacy",
+   "cover": "/lists/games/covers/fb3b54ae2faa4d89bf4fcc2a92f62e0e.jpg"
+  },
+  {
+   "title": "Doom",
+   "meta": "1993",
+   "link": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+   "cover": "/lists/games/covers/f281d1aa947bc4d3123631c3ee1b2c62.jpg"
+  },
+  {
+   "title": "Gunstar Heroes",
+   "meta": "1993",
+   "link": "https://en.wikipedia.org/wiki/Gunstar_Heroes",
+   "cover": "/lists/games/covers/79529afeecd45ae6168b4489eb8094db.jpg"
+  },
+  {
+   "title": "The Legend of Zelda: A Link to the Past",
+   "meta": "1991",
+   "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+   "cover": "/lists/games/covers/f54de1d36227def0e921cd9750fba1ad.jpg"
+  },
+  {
+   "title": "Call of Duty 4: Modern Warfare",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/Call_of_Duty_4%3A_Modern_Warfare",
+   "cover": "/lists/games/covers/a40253d8839fb1d8f3f2ca395cc67c2d.jpg"
+  },
+  {
+   "title": "Portal",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/Portal_(video_game)",
+   "cover": "/lists/games/covers/622a2b520ef2f8a90fc00d8fc8667d04.jpg"
+  },
+  {
+   "title": "Burnout Paradise",
+   "meta": "2008",
+   "link": "https://en.wikipedia.org/wiki/Burnout_Paradise",
+   "cover": "/lists/games/covers/c2aff54a9cb69af7078daff66f22d206.jpg"
+  },
+  {
+   "title": "Rome: Total War",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/Rome:_Total_War",
+   "cover": "/lists/games/covers/1ecb705ca44ca844b81f797a589608a6.jpg"
+  },
+  {
+   "title": "Grand Theft Auto: Vice City",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+   "cover": "/lists/games/covers/08b1f15c1da27bf563a8546aad96ff13.jpg"
+  },
+  {
+   "title": "Kingdom Hearts",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+   "cover": "/lists/games/covers/f4530770f1c10a5fe7b0a4918daa1d4b.jpg"
+  },
+  {
+   "title": "Halo 3",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/Halo_3",
+   "cover": "/lists/games/covers/25584e19d63c3b7590986d6aa2ea5bcc.jpg"
+  },
+  {
+   "title": "Red Dead Redemption 2",
+   "meta": "2018",
+   "link": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+   "cover": "/lists/games/covers/94171a6f1cc161750a80bdd078643474.jpg"
+  },
+  {
+   "title": "Need for Speed: Hot Pursuit 2",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Need_for_Speed%3A_Hot_Pursuit_2",
+   "cover": "/lists/games/covers/480ce6856cff9a0fd7f2358a51bcd333.jpg"
+  },
+  {
+   "title": "Baldur's Gate 3",
+   "meta": "2023",
+   "link": "https://en.wikipedia.org/wiki/Baldur's_Gate_3",
+   "cover": "/lists/games/covers/c896e3ecdc97b08bc7b98f3a0c876951.jpg"
+  },
+  {
+   "title": "The Legend of Zelda: Breath of the Wild",
+   "meta": "2017",
+   "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+   "cover": "/lists/games/covers/9081819a835a1378004d33d5afe58117.jpg"
+  },
+  {
+   "title": "Portal 2",
+   "meta": "2011",
+   "link": "https://en.wikipedia.org/wiki/Portal_2",
+   "cover": "/lists/games/covers/31549540383aa82606127ddffd8c8c25.jpg"
+  },
+  {
+   "title": "Tony Hawk's Underground",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/Tony_Hawk's_Underground",
+   "cover": "/lists/games/covers/54b9e8b0c317ef713ccad89c020898c5.jpg"
+  },
+  {
+   "title": "Tom Clancy's Splinter Cell",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_(video_game)",
+   "cover": "/lists/games/covers/123d5f1e07f8f92658540eba2cbdc493.jpg"
+  },
+  {
+   "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell%3A_Chaos_Theory",
+   "cover": "/lists/games/covers/f9ae1de52bc519c1fe45a3df1bbd4306.jpg"
+  },
+  {
+   "title": "Mario Kart: Super Circuit",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Mario_Kart%3A_Super_Circuit",
+   "cover": "/lists/games/covers/6eb70747e63f0db7dd8ae6ecad4f5437.jpg"
+  },
+  {
+   "title": "Half-Life 2",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/Half-Life_2",
+   "cover": "/lists/games/covers/d5573cfdd0a461fae9f36e55e7b77821.jpg"
+  },
+  {
+   "title": "Call of Duty: Modern Warfare 2",
+   "meta": "2009",
+   "link": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_2",
+   "cover": "/lists/games/covers/2f86b167baa1afcec542ed64120e5d09.jpg"
+  },
+  {
+   "title": "RuneScape",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/RuneScape",
+   "cover": "/lists/games/covers/feae89ed28347a0d8816db3425df2435.jpg"
+  },
+  {
+   "title": "Crazy Taxi",
+   "meta": "1999",
+   "link": "https://en.wikipedia.org/wiki/Crazy_Taxi_(video_game)",
+   "cover": "/lists/games/covers/b2bafa9a0f18b3659df85552d6d966c4.jpg"
+  },
+  {
+   "title": "Sonic Spinball",
+   "meta": "1993",
+   "link": "https://en.wikipedia.org/wiki/Sonic_Spinball",
+   "cover": "/lists/games/covers/f71d06569d42e1c6e4f096a61bbe751d.jpg"
+  },
+  {
+   "title": "Super Mario Galaxy",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/Super_Mario_Galaxy",
+   "cover": "/lists/games/covers/4a1091d15f0b73d826376a1907ffbbc0.jpg"
+  },
+  {
+   "title": "Pokémon Pinball",
+   "meta": "1999",
+   "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pinball",
+   "cover": "/lists/games/covers/0f7c6e2c58b347bea42c69f7279250d0.jpg"
+  },
+  {
+   "title": "BioShock",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/BioShock",
+   "cover": "/lists/games/covers/7784a0993b421a7d4160d579029c880f.jpg"
+  },
+  {
+   "title": "Pokémon Crystal",
+   "meta": "2000",
+   "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Crystal",
+   "cover": "/lists/games/covers/27aef3223bf6a9a03e9abe3879f78cb8.jpg"
+  },
+  {
+   "title": "Rock Band",
+   "meta": "2007",
+   "link": "https://en.wikipedia.org/wiki/Rock_Band_(video_game)",
+   "cover": "/lists/games/covers/d2a611e2f0b580c28ad3e5d40bc41ec5.jpg"
+  },
+  {
+   "title": "The Elder Scrolls IV: Oblivion",
+   "meta": "2006",
+   "link": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV%3A_Oblivion",
+   "cover": "/lists/games/covers/4ecb8359303837de01a6088c49bfb76a.jpg"
+  },
+  {
+   "title": "Super Smash Bros. Brawl",
+   "meta": "2008",
+   "link": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl",
+   "cover": "/lists/games/covers/ded7341162f1990f5193d7cadbc4022c.jpg"
+  },
+  {
+   "title": "Super Mario Galaxy 2",
+   "meta": "2010",
+   "link": "https://en.wikipedia.org/wiki/Super_Mario_Galaxy_2",
+   "cover": "/lists/games/covers/3795b060d1c66c18522add6bb254730c.jpg"
+  },
+  {
+   "title": "Madden NFL '95",
+   "meta": "1994",
+   "link": "https://en.wikipedia.org/wiki/Madden_NFL_'95",
+   "cover": "/lists/games/covers/dc3ff6c447e2fcced941571fd8b777ae.jpg"
+  },
+  {
+   "title": "Banjo-Kazooie",
+   "meta": "1998",
+   "link": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+   "cover": "/lists/games/covers/bc3f8a164ce116fc4ce92e948a2d1028.jpg"
+  },
+  {
+   "title": "Crash Bandicoot: Warped",
+   "meta": "1998",
+   "link": "https://en.wikipedia.org/wiki/Crash_Bandicoot%3A_Warped",
+   "cover": "/lists/games/covers/1f2315e7a55851139c197c342bba0db4.jpg"
+  },
+  {
+   "title": "Guitar Hero",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Guitar_Hero_(video_game)",
+   "cover": "/lists/games/covers/15804275aa40698d4d498303beb31dc0.jpg"
+  },
+  {
+   "title": "Tony Hawk's Pro Skater 2",
+   "meta": "2000",
+   "link": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2",
+   "cover": "/lists/games/covers/38db72de1d20c1907214a52bd896ae82.jpg"
+  },
+  {
+   "title": "Ace Combat 04: Shattered Skies",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Ace_Combat_04%3A_Shattered_Skies",
+   "cover": "/lists/games/covers/a42fb04474002fb10cf69f1b5faa7958.jpg"
+  },
+  {
+   "title": "Super Mario Sunshine",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Super_Mario_Sunshine",
+   "cover": "/lists/games/covers/475a44f5e8b32759d15f66c4923b3b2b.jpg"
+  },
+  {
+   "title": "Ridge Racers",
+   "meta": "2004 · PSP",
+   "link": "https://en.wikipedia.org/wiki/Ridge_Racer_(2004_video_game)",
+   "cover": "/lists/games/covers/33e4242b1a3c7c8e5b25078eaaff5c6b.jpg"
+  },
+  {
+   "title": "Backyard Baseball",
+   "meta": "1997",
+   "link": "https://en.wikipedia.org/wiki/Backyard_Baseball_(1997_video_game)",
+   "cover": "/lists/games/covers/25e7b0035c51901df4f058af21420f9a.jpg"
+  },
+  {
+   "title": "Far Cry 3",
+   "meta": "2012",
+   "link": "https://en.wikipedia.org/wiki/Far_Cry_3",
+   "cover": "/lists/games/covers/5156bced5064816c0b6bc7139ce1f1de.jpg"
+  },
+  {
+   "title": "Battlefield 3",
+   "meta": "2011",
+   "link": "https://en.wikipedia.org/wiki/Battlefield_3",
+   "cover": "/lists/games/covers/61cec16106902c3451d05f6d8f2b4859.jpg"
+  },
+  {
+   "title": "SkiFree",
+   "meta": "1991",
+   "link": "https://en.wikipedia.org/wiki/SkiFree",
+   "cover": "/lists/games/covers/241ef503efaf41f1a1e1f5e8ff958fbc.jpg"
+  },
+  {
+   "title": "Madden NFL 2001",
+   "meta": "2000",
+   "link": "https://en.wikipedia.org/wiki/Madden_NFL_2001",
+   "cover": "/lists/games/covers/d6b6068f98f54c74ad0c05c3361043a3.jpg"
+  },
+  {
+   "title": "Scorched Earth",
+   "meta": "1991",
+   "link": "https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)",
+   "cover": "/lists/games/covers/7d0cdc6cd33751e8f89e0e870555df23.jpg"
+  },
+  {
+   "title": "NHL Hitz 2003",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/NHL_Hitz_2003",
+   "cover": "/lists/games/covers/1cc3be08b33c59fdf796718b40ed3152.jpg"
+  },
+  {
+   "title": "MLB Slugfest 20-03",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/MLB_Slugfest_2003",
+   "cover": "/lists/games/covers/741c29816061c77d707b63aae34cbb3a.jpg"
+  },
+  {
+   "title": "Dragon Ball Z: Budokai 2",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Budokai_2",
+   "cover": "/lists/games/covers/c830bcf83995cfd275d8a3c43ed81e15.jpg"
+  },
+  {
+   "title": "Sly Cooper and the Thievius Raccoonus",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/Sly_Cooper_and_the_Thievius_Raccoonus",
+   "cover": "/lists/games/covers/3dd84acdf1428296136c9d351e216158.jpg"
+  },
+  {
+   "title": "Kirby's Dream Land",
+   "meta": "1992",
+   "link": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+   "cover": "/lists/games/covers/c3e26fa2ea449ec83eedc80007fbd52f.jpg"
+  },
+  {
+   "title": "Total War: Warhammer II",
+   "meta": "2017",
+   "link": "https://en.wikipedia.org/wiki/Total_War:_Warhammer_II",
+   "cover": "/lists/games/covers/7fb56052818296cadc017bc045e0d541.jpg"
+  },
+  {
+   "title": "Grand Theft Auto IV",
+   "meta": "2008",
+   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
+   "cover": "/lists/games/covers/2ee8b127dc0dd1c98c1f5c5158b1f7ee.jpg"
+  },
+  {
+   "title": "Overwatch",
+   "meta": "2016",
+   "link": "https://en.wikipedia.org/wiki/Overwatch_(2016_video_game)",
+   "cover": "/lists/games/covers/df3089cbb03e1828eae6c0abae6838cc.jpg"
+  },
+  {
+   "title": "NFL Blitz",
+   "meta": "1997",
+   "link": "https://en.wikipedia.org/wiki/NFL_Blitz_(1997_video_game)",
+   "cover": "/lists/games/covers/c16b042d31e88a6c006fec29cc48f892.jpg"
+  },
+  {
+   "title": "Mario Kart World",
+   "meta": "2025",
+   "link": "https://en.wikipedia.org/wiki/Mario_Kart_World",
+   "cover": "/lists/games/covers/3409f65d8f0a420e09580209e49ba102.jpg"
+  },
+  {
+   "title": "Dance Dance Revolution",
+   "meta": "1998",
+   "link": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution_(1998_video_game)",
+   "cover": "/lists/games/covers/9dfdc877f0b03fc35a7c9dcf13fe0909.jpg"
+  },
+  {
+   "title": "GORN",
+   "meta": "2019",
+   "link": "https://en.wikipedia.org/wiki/Gorn_(video_game)",
+   "cover": "/lists/games/covers/f016bd724dc24d2de3b8ce8db6e8f606.jpg"
+  },
+  {
+   "title": "Slime Volleyball",
+   "meta": "1999",
+   "link": "https://slimegames.co.uk/slime-volleyball/",
+   "cover": "/lists/games/covers/eaeea1611ebb5eb6e13184e01cfde67e.jpg"
+  },
+  {
+   "title": "Worms Armageddon",
+   "meta": "1999",
+   "link": "https://en.wikipedia.org/wiki/Worms_Armageddon",
+   "cover": "/lists/games/covers/d35db2f8a36a34c4a247f513f441b565.jpg"
+  },
+  {
+   "title": "NASCAR Thunder 2004",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/NASCAR_Thunder_2004",
+   "cover": "/lists/games/covers/61280c692de2d42767245513887cad49.jpg"
+  },
+  {
+   "title": "Cartoon Orbit",
+   "meta": "2000",
+   "link": "https://en.wikipedia.org/wiki/Cartoon_Orbit",
+   "cover": "/lists/games/covers/92931c3b113f12cc83c6ee6c483dc783.jpg"
+  },
+  {
+   "title": "The Oregon Trail",
+   "meta": "1985",
+   "link": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)",
+   "cover": "/lists/games/covers/c5c7c821fdfb690527b3eb8d93053e66.jpg"
+  },
+  {
+   "title": "Quibble Race",
+   "meta": "2004",
+   "link": "https://www.newgrounds.com/portal/view/199726",
+   "cover": "/lists/games/covers/22f46b84dc5257956c33b08339f652aa.jpg"
+  },
+  {
+   "title": "Logical Journey of the Zoombinis",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis",
+   "cover": "/lists/games/covers/c90f4da8f8fd014b610197d788623cc4.jpg"
+  },
+  {
+   "title": "Borderlands",
+   "meta": "2009",
+   "link": "https://en.wikipedia.org/wiki/Borderlands_(video_game)",
+   "cover": "/lists/games/covers/615840af696df94fd4fe46fb794b8da5.jpg"
+  },
+  {
+   "title": "Donkey Kong Bananza",
+   "meta": "2025",
+   "link": "https://en.wikipedia.org/wiki/Donkey_Kong_Bananza",
+   "cover": "/lists/games/covers/5bee2119f6a8a8e9a25341765af4701b.jpg"
+  },
+  {
+   "title": "RollerCoaster Tycoon 2",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2",
+   "cover": "/lists/games/covers/1b6fe6d02ed7505d246fd2381536215c.jpg"
+  },
+  {
+   "title": "Zoo Tycoon",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Zoo_Tycoon_(2001_video_game)",
+   "cover": "/lists/games/covers/45ef33d0ae9fb94b0bd0b695f003268c.jpg"
+  },
+  {
+   "title": "SOCOM U.S. Navy SEALs: Fireteam Bravo",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/SOCOM_U.S._Navy_SEALs%3A_Fireteam_Bravo",
+   "cover": "/lists/games/covers/86d2303d71dbc9045387dc63f4ee7709.jpg"
+  },
+  {
+   "title": "Saints Row IV",
+   "meta": "2013",
+   "link": "https://en.wikipedia.org/wiki/Saints_Row_IV",
+   "cover": "/lists/games/covers/bdc5f073d33c54d6a77ec271c40fea72.jpg"
+  },
+  {
+   "title": "Ms. Pac-Man",
+   "meta": "1982",
+   "link": "https://en.wikipedia.org/wiki/Ms._Pac-Man",
+   "cover": "/lists/games/covers/7631b2d4e22f0277e3a66a2d95c1e31a.jpg"
+  },
+  {
+   "title": "Twisted Metal 2",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Twisted_Metal_2",
+   "cover": "/lists/games/covers/463e9ad72748545ff52b332f0046e04d.jpg"
+  },
+  {
+   "title": "Wipeout Pure",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Wipeout_Pure",
+   "cover": "/lists/games/covers/696c892bb3e67da60aaaf0a1d4a25ae3.jpg"
+  },
+  {
+   "title": "Age of Empires III",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Age_of_Empires_III",
+   "cover": "/lists/games/covers/7d4e1ff8bfdb79419ee0a157782a6a01.jpg"
+  },
+  {
+   "title": "Medieval II: Total War",
+   "meta": "2006",
+   "link": "https://en.wikipedia.org/wiki/Medieval_II%3A_Total_War",
+   "cover": "/lists/games/covers/504ce5cae779f1fd5048230b5761da4d.jpg"
+  },
+  {
+   "title": "Ace Combat 2",
+   "meta": "1997",
+   "link": "https://en.wikipedia.org/wiki/Ace_Combat_2",
+   "cover": "/lists/games/covers/d59fa5ed7cd8ddb315c28a0917609ca5.jpg"
+  },
+  {
+   "title": "Pokémon Trading Card Game",
+   "meta": "1998 · Gameboy",
+   "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_(video_game)",
+   "cover": "/lists/games/covers/ebd6263dda81f22e90676eebefbbe645.jpg"
+  },
+  {
+   "title": "Spyro the Dragon",
+   "meta": "1998",
+   "link": "https://en.wikipedia.org/wiki/Spyro_the_Dragon",
+   "cover": "/lists/games/covers/1ad0f3777f15002ab2b5a70628914868.jpg"
+  },
+  {
+   "title": "Fallout 4",
+   "meta": "2015",
+   "link": "https://en.wikipedia.org/wiki/Fallout_4",
+   "cover": "/lists/games/covers/e3723d61991b1a8e7bc4fc9dc890756b.jpg"
+  },
+  {
+   "title": "Red Dead Redemption",
+   "meta": "2010",
+   "link": "https://en.wikipedia.org/wiki/Red_Dead_Redemption",
+   "cover": "/lists/games/covers/71b099e8c0c07b61d5b942a27f33d8eb.jpg"
+  },
+  {
+   "title": "Ace Combat 8: Wings of Theve",
+   "meta": "2026",
+   "link": "https://en.wikipedia.org/wiki/Ace_Combat_8:_Wings_of_Theve",
+   "cover": "/lists/games/covers/b8711857ccaf07d9f7ab11135de92052.jpg"
+  },
+  {
+   "title": "Wario Land: Super Mario Land 3",
+   "meta": "1994",
+   "link": "https://en.wikipedia.org/wiki/Wario_Land%3A_Super_Mario_Land_3",
+   "cover": "/lists/games/covers/b0d0668292511f181d503f51fd8e2cb6.jpg"
+  },
+  {
+   "title": "NBA Jam",
+   "meta": "1993",
+   "link": "https://en.wikipedia.org/wiki/NBA_Jam_(1993_video_game)",
+   "cover": "/lists/games/covers/99419860b61706de64fe886bcf664f73.jpg"
+  },
+  {
+   "title": "EyeToy: Play",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/EyeToy%3A_Play",
+   "cover": "/lists/games/covers/0db13003c42cad19fecb70a80a7a5182.jpg"
+  },
+  {
+   "title": "GoldenEye 007",
+   "meta": "1997",
+   "link": "https://en.wikipedia.org/wiki/GoldenEye_007",
+   "cover": "/lists/games/covers/9cae9ce5f3a2b85103f6bcd5b1e80d52.jpg"
+  },
+  {
+   "title": "Kirby's Dream Course",
+   "meta": "1994",
+   "link": "https://en.wikipedia.org/wiki/Kirby's_Dream_Course",
+   "cover": "/lists/games/covers/518ee05316b8c8ce5d9f25f4ae6bbc29.jpg"
+  },
+  {
+   "title": "Pocket Tanks",
+   "meta": "2001",
+   "link": "https://en.wikipedia.org/wiki/Pocket_Tanks",
+   "cover": "/lists/games/covers/858ddff8e17aa7c68bdb147bfd52ce1c.jpg"
+  },
+  {
+   "title": "Pandemic II",
+   "meta": "2008",
+   "link": "https://flashmuseum.net/game/pandemic-ii-7to/",
+   "cover": "/lists/games/covers/37ac25405c74c6f8339b92ef4511d3e7.jpg"
+  },
+  {
+   "title": "Swords and Sandals 1: Gladiator",
+   "meta": "2006",
+   "link": "https://en.wikipedia.org/wiki/Swords_and_Sandals",
+   "cover": "/lists/games/covers/b205e5dd71035a9720648637f72ee01c.jpg"
+  },
+  {
+   "title": "N",
+   "meta": "2004",
+   "link": "https://en.wikipedia.org/wiki/N_(video_game)",
+   "cover": "/lists/games/covers/91a84abd3e95e5073cfaf6a7cbdd193b.jpg"
+  },
+  {
+   "title": "Drift 'n' Burn 365",
+   "meta": "2007",
+   "link": "https://backloggd.com/games/drift-n-burn-365/",
+   "cover": "/lists/games/covers/c61c19f88216e983c183bf599d372b88.jpg"
+  }
+ ]
+}

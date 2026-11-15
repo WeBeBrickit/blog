@@ -42,6 +42,15 @@ Then open http://localhost:4321. The site rebuilds every time you save a file. P
 - **About page:** `pages/about.md`. Any `.md` file you add to `pages/` becomes a page (for example, `pages/uses.md` becomes `/uses/`).
 - **Pixel font:** the glyphs are drawn as text in `tools/make-font.py`. Edit them, then run `npm run font`. This step needs Python 3 and fontTools (`pip install fonttools`).
 
+## Lists
+
+The `/lists/` section shows read-only copies of the ranked lists kept on claude.ai (games, albums, Ghibli, anime, cartoons). Each folder in `lists/` has:
+
+- `items.json`: the ranking, in order (title, a short meta line, link, cover path)
+- `page.html`: that list's own look, with `<!--LIST-->` where the rows go
+
+Covers live in `public/lists/<list>/covers/`. To refresh the site after changing a list on claude.ai, ask Claude to "sync my lists to the blog", then commit and push.
+
 ## Publishing
 
 See `DEPLOY.md`. Once it's set up, every push to GitHub rebuilds the live site.

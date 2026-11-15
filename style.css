@@ -223,6 +223,10 @@ h2 { font-size: 24px; line-height: 1.25; margin: 48px 0 16px; }
 .slot p { margin: 0 0 10px; color: var(--muted); font-size: 1rem; line-height: 1.5; }
 .empty { color: var(--muted); }
 
+/* Lists index: a strip of the top covers on each card */
+.strip { display: flex; gap: 6px; margin: 0 0 10px; flex-wrap: wrap; }
+.strip img { width: 44px; height: 60px; object-fit: cover; display: block; background: var(--ink); box-shadow: 0 0 0 2px var(--ink); }
+
 .meta {
   display: flex;
   flex-wrap: wrap;

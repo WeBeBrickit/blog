@@ -1,0 +1,643 @@
+{
+ "title": "100 Greatest Cartoons",
+ "description": "The best American TV animation, ranked.",
+ "synced": "2026-11-15",
+ "items": [
+  {
+   "title": "Batman: The Animated Series",
+   "meta": "1992–1995",
+   "link": "https://www.imdb.com/title/tt0103359/",
+   "cover": "/lists/cartoons/covers/1cf11d581a4ae9fad2936df2adffb4bf.jpg"
+  },
+  {
+   "title": "The Bugs Bunny/Looney Tunes Comedy Hour",
+   "meta": "1985–1986",
+   "link": "https://www.imdb.com/title/tt0088491/",
+   "cover": "/lists/cartoons/covers/759a751b8933bbdb05d7525b1c37c0aa.jpg"
+  },
+  {
+   "title": "SpongeBob SquarePants",
+   "meta": "1999–",
+   "link": "https://www.imdb.com/title/tt0206512/",
+   "cover": "/lists/cartoons/covers/585f4e11ea5be5035656dd22d2978599.jpg"
+  },
+  {
+   "title": "The Simpsons",
+   "meta": "1989–",
+   "link": "https://www.imdb.com/title/tt0096697/",
+   "cover": "/lists/cartoons/covers/cb0de5e2f8ccb0dd2765eff45103589e.jpg"
+  },
+  {
+   "title": "Adventure Time",
+   "meta": "2010–2018",
+   "link": "https://www.imdb.com/title/tt1305826/",
+   "cover": "/lists/cartoons/covers/4801f75d7e9eff193b5edd73326dc1d7.jpg"
+  },
+  {
+   "title": "Futurama",
+   "meta": "1999–",
+   "link": "https://www.imdb.com/title/tt0149460/",
+   "cover": "/lists/cartoons/covers/4257437758dc3698575d300bf4eb1f86.jpg"
+  },
+  {
+   "title": "Avatar: The Last Airbender",
+   "meta": "2005–2008",
+   "link": "https://www.imdb.com/title/tt0417299/",
+   "cover": "/lists/cartoons/covers/e99977f94db849246fc16d36326309c5.jpg"
+  },
+  {
+   "title": "Tom and Jerry Classic Collection Volume 1",
+   "meta": "1945 · Film",
+   "link": "https://www.imdb.com/title/tt28335303/",
+   "cover": "/lists/cartoons/covers/94add5efb9a3da9a06dc45b2d2f9d0fd.jpg"
+  },
+  {
+   "title": "Samurai Jack",
+   "meta": "2001–2017",
+   "link": "https://www.imdb.com/title/tt0278238/",
+   "cover": "/lists/cartoons/covers/0832548ce4d1cbe7bee78bea542ad425.jpg"
+  },
+  {
+   "title": "Scooby Doo, Where Are You!",
+   "meta": "1969–1970",
+   "link": "https://www.imdb.com/title/tt0063950/",
+   "cover": "/lists/cartoons/covers/5b29e8a8b76430fe9c3488f525ff0bf9.jpg"
+  },
+  {
+   "title": "Regular Show",
+   "meta": "2010–2017",
+   "link": "https://www.imdb.com/title/tt1710308/",
+   "cover": "/lists/cartoons/covers/e07a81cb04637e8c4f8ff906bce59254.jpg"
+  },
+  {
+   "title": "Gravity Falls",
+   "meta": "2012–2016",
+   "link": "https://www.imdb.com/title/tt1865718/",
+   "cover": "/lists/cartoons/covers/49face82069492876b1b1db155b8c8b6.jpg"
+  },
+  {
+   "title": "Over the Garden Wall",
+   "meta": "2014 · Miniseries",
+   "link": "https://www.imdb.com/title/tt3718778/",
+   "cover": "/lists/cartoons/covers/df3d99d3d0f1ebecd2914ba11cd4cb70.jpg"
+  },
+  {
+   "title": "The Venture Bros.",
+   "meta": "2003–2018",
+   "link": "https://www.imdb.com/title/tt0417373/",
+   "cover": "/lists/cartoons/covers/da6bc9bcee8a1968af152d7fd8e5dad7.jpg"
+  },
+  {
+   "title": "Justice League",
+   "meta": "2001–2004",
+   "link": "https://www.imdb.com/title/tt0275137/",
+   "cover": "/lists/cartoons/covers/46b3d9b965a0ee64dbfba6df015cab6d.jpg"
+  },
+  {
+   "title": "Courage the Cowardly Dog",
+   "meta": "1999–2002",
+   "link": "https://www.imdb.com/title/tt0220880/",
+   "cover": "/lists/cartoons/covers/17467d89e577b8723a1663f8ee735807.jpg"
+  },
+  {
+   "title": "The Powerpuff Girls",
+   "meta": "1998–2004",
+   "link": "https://www.imdb.com/title/tt0175058/",
+   "cover": "/lists/cartoons/covers/5e0ab7cd97ac7256856e51a16344e218.jpg"
+  },
+  {
+   "title": "X-Men",
+   "meta": "1992–1997",
+   "link": "https://www.imdb.com/title/tt0103584/",
+   "cover": "/lists/cartoons/covers/57f4b35f0b61fa5bb08056ebe2996958.jpg"
+  },
+  {
+   "title": "South Park",
+   "meta": "1997–",
+   "link": "https://www.imdb.com/title/tt0121955/",
+   "cover": "/lists/cartoons/covers/21868ce6bfa252a6d0b229b32a631837.jpg"
+  },
+  {
+   "title": "Invader ZIM",
+   "meta": "2001–2006",
+   "link": "https://www.imdb.com/title/tt0235923/",
+   "cover": "/lists/cartoons/covers/9a17d02576330b82925898fed9b319d0.jpg"
+  },
+  {
+   "title": "Batman Beyond",
+   "meta": "1999–2001",
+   "link": "https://www.imdb.com/title/tt0147746/",
+   "cover": "/lists/cartoons/covers/c3d053ec8651c28922feb7a6dac3edae.jpg"
+  },
+  {
+   "title": "The Bullwinkle Show",
+   "meta": "1959–1963",
+   "link": "https://www.imdb.com/title/tt0052507/",
+   "cover": "/lists/cartoons/covers/019dedb3e3998e74f87520b90241a01a.jpg"
+  },
+  {
+   "title": "The Pink Panther Show",
+   "meta": "1969–1970",
+   "link": "https://www.imdb.com/title/tt0063939/",
+   "cover": "/lists/cartoons/covers/b6236290c1dd01c56e428a5ea6da9709.jpg"
+  },
+  {
+   "title": "King of the Hill",
+   "meta": "1997–",
+   "link": "https://www.imdb.com/title/tt0118375/",
+   "cover": "/lists/cartoons/covers/bfc80eb4e24e419bbb9b8fa6f2ebe606.jpg"
+  },
+  {
+   "title": "Aqua Teen Hunger Force",
+   "meta": "2000–2023",
+   "link": "https://www.imdb.com/title/tt0297494/",
+   "cover": "/lists/cartoons/covers/b7b461500ca52fdc2f519898e68c11f9.jpg"
+  },
+  {
+   "title": "Bluey",
+   "meta": "2018–",
+   "link": "https://www.imdb.com/title/tt7678620/",
+   "cover": "/lists/cartoons/covers/d3e8b361b839cf936d7a4fbf87fb6885.jpg"
+  },
+  {
+   "title": "The Amazing World of Gumball",
+   "meta": "2011–2019",
+   "link": "https://www.imdb.com/title/tt1942683/",
+   "cover": "/lists/cartoons/covers/301f5a934679790292ea4897828fa973.jpg"
+  },
+  {
+   "title": "Steven Universe",
+   "meta": "2013–2019",
+   "link": "https://www.imdb.com/title/tt3061046/",
+   "cover": "/lists/cartoons/covers/390bac0b5f4a1ec0f7c3b01a825d02c9.jpg"
+  },
+  {
+   "title": "Rocko's Modern Life",
+   "meta": "1993–1996",
+   "link": "https://www.imdb.com/title/tt0106115/",
+   "cover": "/lists/cartoons/covers/fdfc400aaf295ec8d57eb9728c91d22d.jpg"
+  },
+  {
+   "title": "Bob's Burgers",
+   "meta": "2011–",
+   "link": "https://www.imdb.com/title/tt1561755/",
+   "cover": "/lists/cartoons/covers/829b544aa319685fd70690d07fcac103.jpg"
+  },
+  {
+   "title": "Rick and Morty",
+   "meta": "2013–",
+   "link": "https://www.imdb.com/title/tt2861424/",
+   "cover": "/lists/cartoons/covers/14d0f8ecfefa567a20c2cf889ff8954a.jpg"
+  },
+  {
+   "title": "Archer",
+   "meta": "2009–2023",
+   "link": "https://www.imdb.com/title/tt1486217/",
+   "cover": "/lists/cartoons/covers/b7577c0e67a7336cf4323b95eecbb7af.jpg"
+  },
+  {
+   "title": "The Boondocks",
+   "meta": "2005–2014",
+   "link": "https://www.imdb.com/title/tt0373732/",
+   "cover": "/lists/cartoons/covers/a9efefbc9a907e02fccf1c884ef8a810.jpg"
+  },
+  {
+   "title": "Star Wars: The Clone Wars",
+   "meta": "2008–2020",
+   "link": "https://www.imdb.com/title/tt0458290/",
+   "cover": "/lists/cartoons/covers/342f65074d7fea46b55227902d8ea424.jpg"
+  },
+  {
+   "title": "Phineas and Ferb",
+   "meta": "2007–",
+   "link": "https://www.imdb.com/title/tt0852863/",
+   "cover": "/lists/cartoons/covers/1b09f4bc6c3d760720e05072ff996f41.jpg"
+  },
+  {
+   "title": "Gargoyles",
+   "meta": "1994–1997",
+   "link": "https://www.imdb.com/title/tt0108783/",
+   "cover": "/lists/cartoons/covers/78c0fac3d353bc8512d73457fd063162.jpg"
+  },
+  {
+   "title": "The Spectacular Spider-Man",
+   "meta": "2008–2009",
+   "link": "https://www.imdb.com/title/tt0976192/",
+   "cover": "/lists/cartoons/covers/d5d3657c6729fb6da32653eaae53c75d.jpg"
+  },
+  {
+   "title": "Peanuts",
+   "meta": "1965–2006",
+   "link": "https://www.imdb.com/title/tt13957868/",
+   "cover": "/lists/cartoons/covers/5daeffef46bfff8e7fa403cd4e5f44d5.jpg"
+  },
+  {
+   "title": "American Dad!",
+   "meta": "2005–",
+   "link": "https://www.imdb.com/title/tt0397306/",
+   "cover": "/lists/cartoons/covers/3667d92656f0e32e95f407d7404a344d.jpg"
+  },
+  {
+   "title": "Family Guy",
+   "meta": "1999–",
+   "link": "https://www.imdb.com/title/tt0182576/",
+   "cover": "/lists/cartoons/covers/d54afebc073cf6584cf61aab97f75fac.jpg"
+  },
+  {
+   "title": "The Magic School Bus",
+   "meta": "1994–1997",
+   "link": "https://www.imdb.com/title/tt0108847/",
+   "cover": "/lists/cartoons/covers/5d1280f4b57807282fd31cfe3ffcf273.jpg"
+  },
+  {
+   "title": "Pinky and the Brain",
+   "meta": "1995–1998",
+   "link": "https://www.imdb.com/title/tt0112123/",
+   "cover": "/lists/cartoons/covers/3bc03ab6ccdae2789b41e23ad6f3a251.jpg"
+  },
+  {
+   "title": "Beavis and Butt-Head",
+   "meta": "1993–2011",
+   "link": "https://www.imdb.com/title/tt0105950/",
+   "cover": "/lists/cartoons/covers/8d0d8dce649909857f723eedead2ed22.jpg"
+  },
+  {
+   "title": "The Ren & Stimpy Show",
+   "meta": "1991–1996",
+   "link": "https://www.imdb.com/title/tt0101178/",
+   "cover": "/lists/cartoons/covers/f8253f8482f497843908a246ed3f4caf.jpg"
+  },
+  {
+   "title": "Daria",
+   "meta": "1997–2002",
+   "link": "https://www.imdb.com/title/tt0118298/",
+   "cover": "/lists/cartoons/covers/4c957e21b7e2a8718a1bfa584fbcc5e6.jpg"
+  },
+  {
+   "title": "Teen Titans",
+   "meta": "2003–2006",
+   "link": "https://www.imdb.com/title/tt0343314/",
+   "cover": "/lists/cartoons/covers/6937e918d24b01d40b2c9616124c72c7.jpg"
+  },
+  {
+   "title": "Ed, Edd n Eddy",
+   "meta": "1999–2008",
+   "link": "https://www.imdb.com/title/tt0184111/",
+   "cover": "/lists/cartoons/covers/238e9d3d6c4b3db1a2c47223b4f0ed32.jpg"
+  },
+  {
+   "title": "KaBlam!",
+   "meta": "1995–2000",
+   "link": "https://www.imdb.com/title/tt0122353/",
+   "cover": "/lists/cartoons/covers/3c90cfd0df66554f3884ddf1e2816bfb.jpg"
+  },
+  {
+   "title": "Animaniacs",
+   "meta": "1993–1998",
+   "link": "https://www.imdb.com/title/tt0105941/",
+   "cover": "/lists/cartoons/covers/d441f11c411fc7ba95b63595c0d6d6a2.jpg"
+  },
+  {
+   "title": "Rugrats",
+   "meta": "1991–2003",
+   "link": "https://www.imdb.com/title/tt0101188/",
+   "cover": "/lists/cartoons/covers/8a448525b02d89ffe980a6e89996ae6c.jpg"
+  },
+  {
+   "title": "The Tick",
+   "meta": "1994–1997",
+   "link": "https://www.imdb.com/title/tt0112196/",
+   "cover": "/lists/cartoons/covers/9de7b88c0ae2d8042c3914dfba9d706e.jpg"
+  },
+  {
+   "title": "Home Movies",
+   "meta": "1999–2004",
+   "link": "https://www.imdb.com/title/tt0197159/",
+   "cover": "/lists/cartoons/covers/179e63247358b17101e3097dd0c9a483.jpg"
+  },
+  {
+   "title": "The Legend of Korra",
+   "meta": "2012–2014",
+   "link": "https://www.imdb.com/title/tt1695360/",
+   "cover": "/lists/cartoons/covers/6dd91205f02582b546c0efcdffc60407.jpg"
+  },
+  {
+   "title": "Sealab 2021",
+   "meta": "2000–2005",
+   "link": "https://www.imdb.com/title/tt0278877/",
+   "cover": "/lists/cartoons/covers/aff2ca20230cdaa87a915224ff33431a.jpg"
+  },
+  {
+   "title": "Frisky Dingo",
+   "meta": "2006–2008",
+   "link": "https://www.imdb.com/title/tt0865409/",
+   "cover": "/lists/cartoons/covers/49b143c9e296cc9998d3e9c1e1431e72.jpg"
+  },
+  {
+   "title": "Young Justice",
+   "meta": "2010–2022",
+   "link": "https://www.imdb.com/title/tt1641384/",
+   "cover": "/lists/cartoons/covers/ca8e2424075cc5842ceb188f6c1282ac.jpg"
+  },
+  {
+   "title": "Swat Kats: The Radical Squadron",
+   "meta": "1993–1995",
+   "link": "https://www.imdb.com/title/tt0126173/",
+   "cover": "/lists/cartoons/covers/19a559c4a47c2ba293d711ec4b1aa3bc.jpg"
+  },
+  {
+   "title": "Hey Arnold!",
+   "meta": "1996–2004",
+   "link": "https://www.imdb.com/title/tt0115200/",
+   "cover": "/lists/cartoons/covers/b34a201e835fb030f5d5fe38569351a7.jpg"
+  },
+  {
+   "title": "BoJack Horseman",
+   "meta": "2014–2020",
+   "link": "https://www.imdb.com/title/tt3398228/",
+   "cover": "/lists/cartoons/covers/ec2ddca7b169cc1428b945d6d65303e3.jpg"
+  },
+  {
+   "title": "Spider-Man: The Animated Series",
+   "meta": "1994–1998",
+   "link": "https://www.imdb.com/title/tt0112175/",
+   "cover": "/lists/cartoons/covers/08f24d72d13a547a3296f2516dfdb90c.jpg"
+  },
+  {
+   "title": "Schoolhouse Rock!",
+   "meta": "1973–2009",
+   "link": "https://www.imdb.com/title/tt0069627/",
+   "cover": "/lists/cartoons/covers/487e73788370dd7a9e0f7d1578a0f5aa.jpg"
+  },
+  {
+   "title": "The Marvelous Misadventures of Flapjack",
+   "meta": "2008–2010",
+   "link": "https://www.imdb.com/title/tt1178180/",
+   "cover": "/lists/cartoons/covers/ca8577dd4048b45efc13ca5da0c2ff6a.jpg"
+  },
+  {
+   "title": "He-Man and the Masters of the Universe",
+   "meta": "1983–1985",
+   "link": "https://www.imdb.com/title/tt0126158/",
+   "cover": "/lists/cartoons/covers/d3ae8e579b3a0763c1e8a7fd1d2c6d01.jpg"
+  },
+  {
+   "title": "Space Ghost Coast to Coast",
+   "meta": "1993–2012",
+   "link": "https://www.imdb.com/title/tt0108937/",
+   "cover": "/lists/cartoons/covers/9ca1db218206cd12758689233c63dbf9.jpg"
+  },
+  {
+   "title": "Dexter's Laboratory",
+   "meta": "1996–2003",
+   "link": "https://www.imdb.com/title/tt0115157/",
+   "cover": "/lists/cartoons/covers/9d681a304a567a7dffebb332592c87c0.jpg"
+  },
+  {
+   "title": "Pokémon",
+   "meta": "1997–2023",
+   "link": "https://www.imdb.com/title/tt0168366/",
+   "cover": "/lists/cartoons/covers/d85ea3aa487506e3c38c33a4fd020615.jpg"
+  },
+  {
+   "title": "Popeye the Sailor",
+   "meta": "1933 · Shorts",
+   "link": "https://www.imdb.com/title/tt0024461/",
+   "cover": "/lists/cartoons/covers/5918fe30bb3a6cff5ac2e9ff0fd9e900.jpg"
+  },
+  {
+   "title": "Metalocalypse",
+   "meta": "2006–2023",
+   "link": "https://www.imdb.com/title/tt0839188/",
+   "cover": "/lists/cartoons/covers/9d5b42baf247cc1ca3c3dc25dcd6a82b.jpg"
+  },
+  {
+   "title": "Teenage Mutant Ninja Turtles",
+   "meta": "1987–1996",
+   "link": "https://www.imdb.com/title/tt0131613/",
+   "cover": "/lists/cartoons/covers/b6565daf7ec614e5605efd16a11ae744.jpg"
+  },
+  {
+   "title": "Recess",
+   "meta": "1997–2001",
+   "link": "https://www.imdb.com/title/tt0126170/",
+   "cover": "/lists/cartoons/covers/800f101f1b6e271aeebe82ea02267da8.jpg"
+  },
+  {
+   "title": "Superman: The Animated Series",
+   "meta": "1996–2000",
+   "link": "https://www.imdb.com/title/tt0115378/",
+   "cover": "/lists/cartoons/covers/6b6cbb443aff068441d6dd8b789e3385.jpg"
+  },
+  {
+   "title": "The Best of Mr. Peabody & Sherman",
+   "meta": "1959–1964",
+   "link": "https://www.imdb.com/title/tt2652864/",
+   "cover": "/lists/cartoons/covers/470a751a4dfeb691aded8f3ee4dab5c6.jpg"
+  },
+  {
+   "title": "Thundercats",
+   "meta": "1985–1989",
+   "link": "https://www.imdb.com/title/tt0088631/",
+   "cover": "/lists/cartoons/covers/81872cd6755cdb9af673628e2bedd3f0.jpg"
+  },
+  {
+   "title": "Mike Tyson Mysteries",
+   "meta": "2014–2020",
+   "link": "https://www.imdb.com/title/tt3038546/",
+   "cover": "/lists/cartoons/covers/70bfaad7f9a6412d5c34744e72850d51.jpg"
+  },
+  {
+   "title": "G.I. Joe: A Real American Hero",
+   "meta": "1985–1986",
+   "link": "https://www.imdb.com/title/tt0086719/",
+   "cover": "/lists/cartoons/covers/111c5c8e0471529396405a6e6ff2f0a4.jpg"
+  },
+  {
+   "title": "The Flintstones",
+   "meta": "1960–1966",
+   "link": "https://www.imdb.com/title/tt0053502/",
+   "cover": "/lists/cartoons/covers/fb30939138d36d37579c8fea24311402.jpg"
+  },
+  {
+   "title": "The Maxx",
+   "meta": "1995 · Miniseries",
+   "link": "https://www.imdb.com/title/tt0112065/",
+   "cover": "/lists/cartoons/covers/13c6c3b4b466ca527955972a00e0d6c3.jpg"
+  },
+  {
+   "title": "Arthur",
+   "meta": "1996–2022",
+   "link": "https://www.imdb.com/title/tt0169414/",
+   "cover": "/lists/cartoons/covers/3e4f18a4aa11684305d9f870f15b83f7.jpg"
+  },
+  {
+   "title": "Chip 'n' Dale Rescue Rangers",
+   "meta": "1989–1990",
+   "link": "https://www.imdb.com/title/tt0096557/",
+   "cover": "/lists/cartoons/covers/098b31594e75979b57ce074a83654fb5.jpg"
+  },
+  {
+   "title": "The Busy World of Richard Scarry",
+   "meta": "1993–1997",
+   "link": "https://www.imdb.com/title/tt0179558/",
+   "cover": "/lists/cartoons/covers/10da921a4da181750a36630d6b409606.jpg"
+  },
+  {
+   "title": "Pingu",
+   "meta": "1980–2006",
+   "link": "https://www.imdb.com/title/tt0100366/",
+   "cover": "/lists/cartoons/covers/8535b2d46d3edde36af999c358e40559.jpg"
+  },
+  {
+   "title": "The Fairly OddParents",
+   "meta": "2001–2017",
+   "link": "https://www.imdb.com/title/tt0235918/",
+   "cover": "/lists/cartoons/covers/ac1fcb49845844e7b773fbfb67d1dc7a.jpg"
+  },
+  {
+   "title": "Wacky Races",
+   "meta": "1968–1969",
+   "link": "https://www.imdb.com/title/tt0122365/",
+   "cover": "/lists/cartoons/covers/770b62e476f57993bb0df72b42d5d6e6.jpg"
+  },
+  {
+   "title": "Jonny Quest",
+   "meta": "1964–1965",
+   "link": "https://www.imdb.com/title/tt0057730/",
+   "cover": "/lists/cartoons/covers/135c6e47e4fd51ee1c609403a59d6ff6.jpg"
+  },
+  {
+   "title": "Johnny Bravo",
+   "meta": "1997–2004",
+   "link": "https://www.imdb.com/title/tt0118360/",
+   "cover": "/lists/cartoons/covers/63613b90672762b49b10df5f8c480827.jpg"
+  },
+  {
+   "title": "Smiling Friends",
+   "meta": "2020–2026",
+   "link": "https://www.imdb.com/title/tt12074628/",
+   "cover": "/lists/cartoons/covers/eb2052f21895d53178d2b8fe5d06fa86.jpg"
+  },
+  {
+   "title": "Bee and PuppyCat",
+   "meta": "2013–2018",
+   "link": "https://www.imdb.com/title/tt4163486/",
+   "cover": "/lists/cartoons/covers/2214643de4fba9d3fa53ff33f4f7a8c4.jpg"
+  },
+  {
+   "title": "Xiaolin Showdown",
+   "meta": "2003–2006",
+   "link": "https://www.imdb.com/title/tt0386993/",
+   "cover": "/lists/cartoons/covers/043b0d113d411c7d6dd6d0934d24ef8c.jpg"
+  },
+  {
+   "title": "Transformers",
+   "meta": "1984–1987",
+   "link": "https://www.imdb.com/title/tt0086817/",
+   "cover": "/lists/cartoons/covers/a37ad5469a54dd07a5693ebc3dc8bb6e.jpg"
+  },
+  {
+   "title": "My Little Pony: Friendship Is Magic",
+   "meta": "2010–2019",
+   "link": "https://www.imdb.com/title/tt1751105/",
+   "cover": "/lists/cartoons/covers/2ae6a90ef015e2e4ebcd62faa05bf4ad.jpg"
+  },
+  {
+   "title": "Ben 10",
+   "meta": "2005–2008",
+   "link": "https://www.imdb.com/title/tt0760437/",
+   "cover": "/lists/cartoons/covers/15da818261c5f757081ba3dc73fd2785.jpg"
+  },
+  {
+   "title": "Harvey Birdman, Attorney at Law",
+   "meta": "2000–2007",
+   "link": "https://www.imdb.com/title/tt0294097/",
+   "cover": "/lists/cartoons/covers/e0289c4ac9aedc23f8b8b2639d3e336d.jpg"
+  },
+  {
+   "title": "Black Dynamite",
+   "meta": "2011–2015",
+   "link": "https://www.imdb.com/title/tt1608383/",
+   "cover": "/lists/cartoons/covers/65d0f69b52c0c172844409b356552cb6.jpg"
+  },
+  {
+   "title": "ReBoot",
+   "meta": "1994–2001",
+   "link": "https://www.imdb.com/title/tt0108903/",
+   "cover": "/lists/cartoons/covers/8dc310d9a50a92d28924fb13da249e89.jpg"
+  },
+  {
+   "title": "Star vs. the Forces of Evil",
+   "meta": "2015–2019",
+   "link": "https://www.imdb.com/title/tt2758770/",
+   "cover": "/lists/cartoons/covers/4757038ed68ffc6a2b7bab9ad5cc5fb4.jpg"
+  },
+  {
+   "title": "Voltron: Defender of the Universe",
+   "meta": "1984–1985",
+   "link": "https://www.imdb.com/title/tt0086824/",
+   "cover": "/lists/cartoons/covers/c8389b757524bb7e64904e9c934a3366.jpg"
+  },
+  {
+   "title": "The Owl House",
+   "meta": "2020–2023",
+   "link": "https://www.imdb.com/title/tt8050756/",
+   "cover": "/lists/cartoons/covers/80dc66205a238c0cb67b1250c01fccdf.jpg"
+  },
+  {
+   "title": "Adventure Time: Fionna & Cake",
+   "meta": "2023–",
+   "link": "https://www.imdb.com/title/tt15248880/",
+   "cover": "/lists/cartoons/covers/cbc10af86c77d7af64011b39a05f80be.jpg"
+  },
+  {
+   "title": "Spawn",
+   "meta": "1997–1999",
+   "link": "https://www.imdb.com/title/tt0118475/",
+   "cover": "/lists/cartoons/covers/22e14bdf7610532b10547574e0ab3bc7.jpg"
+  },
+  {
+   "title": "Infinity Train",
+   "meta": "2019–2021",
+   "link": "https://www.imdb.com/title/tt8146754/",
+   "cover": "/lists/cartoons/covers/5a2f4ca2dd70565b4cc7ec036301c685.jpg"
+  },
+  {
+   "title": "Liquid Television",
+   "meta": "1991–1994",
+   "link": "https://www.imdb.com/title/tt0101134/",
+   "cover": "/lists/cartoons/covers/f987773b8981cf69ff8b880cd4b794c6.jpg"
+  },
+  {
+   "title": "Dungeons & Dragons",
+   "meta": "1983–1985",
+   "link": "https://www.imdb.com/title/tt0085011/",
+   "cover": "/lists/cartoons/covers/4206e5a72c87c7423215e674ec32d06d.jpg"
+  },
+  {
+   "title": "X-Men '97",
+   "meta": "2024–",
+   "link": "https://www.imdb.com/title/tt16026746/",
+   "cover": "/lists/cartoons/covers/673a71b34617c5fc6baf882b9c4c2b9e.jpg"
+  },
+  {
+   "title": "Mike Judge Presents: Tales from the Tour Bus",
+   "meta": "2017–2018",
+   "link": "https://www.imdb.com/title/tt7212136/",
+   "cover": "/lists/cartoons/covers/f78e2662fc95669669cb604f4d9b7de9.jpg"
+  },
+  {
+   "title": "Blue Eye Samurai",
+   "meta": "2023–",
+   "link": "https://www.imdb.com/title/tt13309742/",
+   "cover": "/lists/cartoons/covers/1f1da0b4159773b01d76c35e91c5d743.jpg"
+  },
+  {
+   "title": "Sym-Bionic Titan",
+   "meta": "2010–2011",
+   "link": "https://www.imdb.com/title/tt1709198/",
+   "cover": "/lists/cartoons/covers/d5422551a843465ecee1a60b0b411e65.jpg"
+  }
+ ]
+}

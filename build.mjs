@@ -88,6 +88,28 @@ function loadPosts() {
     .sort((a, b) => b.date - a.date);
 }
 
+// Ranked lists: each folder in lists/ holds items.json (the ranking) and
+// page.html (that list's own theme, with <!--LIST--> where the rows go).
+// These are read-only snapshots of the editable lists on claude.ai.
+const LIST_ORDER = ["games", "albums", "ghibli", "anime", "cartoons"];
+
+function loadLists() {
+  const dir = path.join(ROOT, "lists");
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir, { withFileTypes: true })
+    .filter((e) => e.isDirectory() && fs.existsSync(path.join(dir, e.name, "items.json")))
+    .map((e) => {
+      const data = JSON.parse(fs.readFileSync(path.join(dir, e.name, "items.json"), "utf8"));
+      const page = fs.readFileSync(path.join(dir, e.name, "page.html"), "utf8");
+      return { slug: e.name, page, ...data };
+    })
+    .sort((a, b) => {
+      const ia = LIST_ORDER.indexOf(a.slug), ib = LIST_ORDER.indexOf(b.slug);
+      return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.slug.localeCompare(b.slug);
+    });
+}
+
 // ---------- templates ----------
 const SHELLS = [
   ["grape", "Grape"],
@@ -121,6 +143,7 @@ function layout(site, { title, description, body, home = false, canonical = "/" 
     <a class="brand" href="/"><span class="led" aria-hidden="true"></span>${esc(site.title)}</a>
     <ul>
       <li><a href="/">Posts</a></li>
+      <li><a href="/lists/">Lists</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/feed.xml">RSS</a></li>
     </ul>
@@ -228,6 +251,54 @@ ${p.html}
 </nav>`;
 }
 
+const EXT_ICON = '<svg class="ext" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>';
+
+// One themed, read-only page per list. Rows use the same markup as the
+// claude.ai pages so their CSS applies unchanged.
+function listPage(site, list) {
+  const rows = list.items
+    .map((it, i) => {
+      const cover = it.cover
+        ? `<div class="cover has-art"><img src="${esc(it.cover)}" alt="" loading="${i < 8 ? "eager" : "lazy"}" decoding="async"></div>`
+        : `<div class="cover"></div>`;
+      const title = it.link
+        ? `<a class="title" href="${esc(it.link)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}${EXT_ICON}</a>`
+        : `<span class="title">${esc(it.title)}</span>`;
+      const meta = it.meta ? `<span class="meta">${esc(it.meta)}</span>` : "";
+      return `<li class="game${i < 3 ? " top" : ""}"><div class="rank">${i + 1}</div>${cover}<div class="info">${title}${meta}</div></li>`;
+    })
+    .join("\n");
+  const synced = list.synced ? fmtDate(new Date(list.synced)) : "";
+  return list.page
+    .replace("<!--LIST-->", rows)
+    .replaceAll("{{SITE}}", esc(site.title))
+    .replaceAll("{{SYNCED}}", esc(synced));
+}
+
+function listsIndex(lists) {
+  const cards = lists
+    .map((l) => {
+      const strip = l.items
+        .slice(0, 6)
+        .filter((it) => it.cover)
+        .map((it) => `<img src="${esc(it.cover)}" alt="" loading="lazy">`)
+        .join("");
+      return `<li class="slot">
+  <a href="/lists/${l.slug}/">
+    <h3>${esc(l.title)}</h3>
+    ${l.description ? `<p>${esc(l.description)}</p>` : ""}
+    ${strip ? `<div class="strip" aria-hidden="true">${strip}</div>` : ""}
+    <div class="meta"><span>${l.items.length} ranked</span>${l.items[0] ? `<span>#1 ${esc(l.items[0].title)}</span>` : ""}</div>
+  </a>
+</li>`;
+    })
+    .join("\n");
+  return `<article class="post page"><header><h1>Lists</h1><p class="lede">Things I love, ranked. #1 is the all-time favorite.</p></header></article>
+<section class="list" aria-label="Lists">
+  <div class="dialog menu">${lists.length ? `<ol class="slots">${cards}</ol>` : '<p class="empty">No lists yet.</p>'}</div>
+</section>`;
+}
+
 function rss(site, posts) {
   const base = site.url.replace(/\/$/, "");
   const items = posts
@@ -275,13 +346,17 @@ function build() {
     write(`${slug}/index.html`, layout(site, { title: data.title, body: html, canonical: `/${slug}/` }));
   }
 
+  const lists = loadLists();
+  write("lists/index.html", layout(site, { title: "Lists", description: "Things I love, ranked.", body: listsIndex(lists), canonical: "/lists/" }));
+  for (const l of lists) write(`lists/${l.slug}/index.html`, listPage(site, l));
+
   write("404.html", layout(site, {
     title: "Not found",
     body: `<div class="dialog lost"><p>This cartridge slot is empty. The page may have moved or never existed.</p><p><a href="/">Back to all posts</a></p></div>`,
   }));
   write("feed.xml", rss(site, posts.filter((p) => !p.draft)));
 
-  console.log(`Built ${posts.length} post(s) in ${Date.now() - t}ms${DEV ? " (drafts included)" : ""}`);
+  console.log(`Built ${posts.length} post(s) and ${lists.length} list(s) in ${Date.now() - t}ms${DEV ? " (drafts included)" : ""}`);
 }
 
 try {
@@ -316,6 +391,6 @@ if (DEV) {
       try { build(); } catch (e) { console.error("Build failed:", e.message); }
     }, 100);
   };
-  for (const d of ["posts", "pages", "public"]) fs.watch(path.join(ROOT, d), { recursive: true }, rebuild);
+  for (const d of ["posts", "pages", "public", "lists"]) fs.watch(path.join(ROOT, d), { recursive: true }, rebuild);
   for (const f of ["style.css", "site.config.json"]) fs.watch(path.join(ROOT, f), rebuild);
 }
