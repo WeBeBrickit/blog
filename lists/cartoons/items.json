@@ -154,12 +154,6 @@
    "cover": "/lists/cartoons/covers/b7b461500ca52fdc2f519898e68c11f9.jpg"
   },
   {
-   "title": "Bluey",
-   "meta": "2018–",
-   "link": "https://www.imdb.com/title/tt7678620/",
-   "cover": "/lists/cartoons/covers/d3e8b361b839cf936d7a4fbf87fb6885.jpg"
-  },
-  {
    "title": "The Amazing World of Gumball",
    "meta": "2011–2019",
    "link": "https://www.imdb.com/title/tt1942683/",
@@ -200,6 +194,12 @@
    "meta": "2005–2014",
    "link": "https://www.imdb.com/title/tt0373732/",
    "cover": "/lists/cartoons/covers/a9efefbc9a907e02fccf1c884ef8a810.jpg"
+  },
+  {
+   "title": "Bluey",
+   "meta": "2018–",
+   "link": "https://www.imdb.com/title/tt7678620/",
+   "cover": "/lists/cartoons/covers/d3e8b361b839cf936d7a4fbf87fb6885.jpg"
   },
   {
    "title": "Star Wars: The Clone Wars",
@@ -400,12 +400,6 @@
    "cover": "/lists/cartoons/covers/d85ea3aa487506e3c38c33a4fd020615.jpg"
   },
   {
-   "title": "Popeye the Sailor",
-   "meta": "1933 · Shorts",
-   "link": "https://www.imdb.com/title/tt0024461/",
-   "cover": "/lists/cartoons/covers/5918fe30bb3a6cff5ac2e9ff0fd9e900.jpg"
-  },
-  {
    "title": "Metalocalypse",
    "meta": "2006–2023",
    "link": "https://www.imdb.com/title/tt0839188/",
@@ -416,6 +410,12 @@
    "meta": "1987–1996",
    "link": "https://www.imdb.com/title/tt0131613/",
    "cover": "/lists/cartoons/covers/b6565daf7ec614e5605efd16a11ae744.jpg"
+  },
+  {
+   "title": "Popeye the Sailor",
+   "meta": "1933 · Shorts",
+   "link": "https://www.imdb.com/title/tt0024461/",
+   "cover": "/lists/cartoons/covers/5918fe30bb3a6cff5ac2e9ff0fd9e900.jpg"
   },
   {
    "title": "Recess",
@@ -538,28 +538,10 @@
    "cover": "/lists/cartoons/covers/a37ad5469a54dd07a5693ebc3dc8bb6e.jpg"
   },
   {
-   "title": "My Little Pony: Friendship Is Magic",
-   "meta": "2010–2019",
-   "link": "https://www.imdb.com/title/tt1751105/",
-   "cover": "/lists/cartoons/covers/2ae6a90ef015e2e4ebcd62faa05bf4ad.jpg"
-  },
-  {
-   "title": "Ben 10",
-   "meta": "2005–2008",
-   "link": "https://www.imdb.com/title/tt0760437/",
-   "cover": "/lists/cartoons/covers/15da818261c5f757081ba3dc73fd2785.jpg"
-  },
-  {
    "title": "Harvey Birdman, Attorney at Law",
    "meta": "2000–2007",
    "link": "https://www.imdb.com/title/tt0294097/",
    "cover": "/lists/cartoons/covers/e0289c4ac9aedc23f8b8b2639d3e336d.jpg"
-  },
-  {
-   "title": "Black Dynamite",
-   "meta": "2011–2015",
-   "link": "https://www.imdb.com/title/tt1608383/",
-   "cover": "/lists/cartoons/covers/65d0f69b52c0c172844409b356552cb6.jpg"
   },
   {
    "title": "ReBoot",
@@ -568,10 +550,10 @@
    "cover": "/lists/cartoons/covers/8dc310d9a50a92d28924fb13da249e89.jpg"
   },
   {
-   "title": "Star vs. the Forces of Evil",
-   "meta": "2015–2019",
-   "link": "https://www.imdb.com/title/tt2758770/",
-   "cover": "/lists/cartoons/covers/4757038ed68ffc6a2b7bab9ad5cc5fb4.jpg"
+   "title": "Ben 10",
+   "meta": "2005–2008",
+   "link": "https://www.imdb.com/title/tt0760437/",
+   "cover": "/lists/cartoons/covers/15da818261c5f757081ba3dc73fd2785.jpg"
   },
   {
    "title": "Voltron: Defender of the Universe",
@@ -580,10 +562,10 @@
    "cover": "/lists/cartoons/covers/c8389b757524bb7e64904e9c934a3366.jpg"
   },
   {
-   "title": "The Owl House",
-   "meta": "2020–2023",
-   "link": "https://www.imdb.com/title/tt8050756/",
-   "cover": "/lists/cartoons/covers/80dc66205a238c0cb67b1250c01fccdf.jpg"
+   "title": "My Little Pony: Friendship Is Magic",
+   "meta": "2010–2019",
+   "link": "https://www.imdb.com/title/tt1751105/",
+   "cover": "/lists/cartoons/covers/2ae6a90ef015e2e4ebcd62faa05bf4ad.jpg"
   },
   {
    "title": "Adventure Time: Fionna & Cake",
@@ -596,12 +578,6 @@
    "meta": "1997–1999",
    "link": "https://www.imdb.com/title/tt0118475/",
    "cover": "/lists/cartoons/covers/22e14bdf7610532b10547574e0ab3bc7.jpg"
-  },
-  {
-   "title": "Infinity Train",
-   "meta": "2019–2021",
-   "link": "https://www.imdb.com/title/tt8146754/",
-   "cover": "/lists/cartoons/covers/5a2f4ca2dd70565b4cc7ec036301c685.jpg"
   },
   {
    "title": "Liquid Television",
@@ -620,18 +596,6 @@
    "meta": "2024–",
    "link": "https://www.imdb.com/title/tt16026746/",
    "cover": "/lists/cartoons/covers/673a71b34617c5fc6baf882b9c4c2b9e.jpg"
-  },
-  {
-   "title": "Mike Judge Presents: Tales from the Tour Bus",
-   "meta": "2017–2018",
-   "link": "https://www.imdb.com/title/tt7212136/",
-   "cover": "/lists/cartoons/covers/f78e2662fc95669669cb604f4d9b7de9.jpg"
-  },
-  {
-   "title": "Blue Eye Samurai",
-   "meta": "2023–",
-   "link": "https://www.imdb.com/title/tt13309742/",
-   "cover": "/lists/cartoons/covers/1f1da0b4159773b01d76c35e91c5d743.jpg"
   },
   {
    "title": "Sym-Bionic Titan",

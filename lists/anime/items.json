@@ -94,12 +94,6 @@
    "cover": "/lists/anime/covers/54bf1eeb708c6f9bf267f5ced7c13618.jpg"
   },
   {
-   "title": "Cardcaptor Sakura",
-   "meta": "1998–2000",
-   "link": "https://www.imdb.com/title/tt0221735/",
-   "cover": "/lists/anime/covers/d5351c88bbc055bab98b1189f92f4a94.jpg"
-  },
-  {
    "title": "FLCL",
    "meta": "2000–2001 · Miniseries",
    "link": "https://www.imdb.com/title/tt0279077/",
@@ -116,6 +110,12 @@
    "meta": "1998",
    "link": "https://www.imdb.com/title/tt0251439/",
    "cover": "/lists/anime/covers/91288dbb6b53fafd506104536e02fd80.jpg"
+  },
+  {
+   "title": "Cardcaptor Sakura",
+   "meta": "1998–2000",
+   "link": "https://www.imdb.com/title/tt0221735/",
+   "cover": "/lists/anime/covers/d5351c88bbc055bab98b1189f92f4a94.jpg"
   },
   {
    "title": "Steins; Gate",
@@ -154,34 +154,16 @@
    "cover": "/lists/anime/covers/796246bc57d6419477fb7f894ab7c354.jpg"
   },
   {
+   "title": "Naruto",
+   "meta": "2002–2007",
+   "link": "https://www.imdb.com/title/tt0409591/",
+   "cover": "/lists/anime/covers/8116077a17b271d1b6a6198442f49e68.jpg"
+  },
+  {
    "title": "Attack on Titan",
    "meta": "2013–2023",
    "link": "https://www.imdb.com/title/tt2560140/",
    "cover": "/lists/anime/covers/f5c56fec118b03409ed616f8eb5fcaf6.jpg"
-  },
-  {
-   "title": "Legend of the Galactic Heroes",
-   "meta": "1988–1997",
-   "link": "https://www.imdb.com/title/tt0096633/",
-   "cover": "/lists/anime/covers/ed57dbd6b34a39cc16e47fbf5f916cb6.jpg"
-  },
-  {
-   "title": "Future Boy Conan",
-   "meta": "1978",
-   "link": "https://www.imdb.com/title/tt0077013/",
-   "cover": "/lists/anime/covers/1945e1f902ca44febe4237b57349432c.jpg"
-  },
-  {
-   "title": "Code Geass: Lelouch of the Rebellion",
-   "meta": "2006–2008",
-   "link": "https://www.imdb.com/title/tt0994314/",
-   "cover": "/lists/anime/covers/e569b7cfd7fdff6f5ac40f1fcc12c006.jpg"
-  },
-  {
-   "title": "Detective Conan",
-   "meta": "1996–",
-   "link": "https://www.imdb.com/title/tt0131179/",
-   "cover": "/lists/anime/covers/9436a908ac7dcab00881339d3bc8bf06.jpg"
   },
   {
    "title": "Initial D: First Stage",
@@ -190,28 +172,22 @@
    "cover": "/lists/anime/covers/09ce0b94fac128c781259593037864ea.jpg"
   },
   {
-   "title": "Naruto",
-   "meta": "2002–2007",
-   "link": "https://www.imdb.com/title/tt0409591/",
-   "cover": "/lists/anime/covers/8116077a17b271d1b6a6198442f49e68.jpg"
-  },
-  {
    "title": "Bleach",
    "meta": "2004–2012",
    "link": "https://www.imdb.com/title/tt0434665/",
    "cover": "/lists/anime/covers/82bf87e184bda523d0532114f801d017.jpg"
   },
   {
+   "title": "Detective Conan",
+   "meta": "1996–",
+   "link": "https://www.imdb.com/title/tt0131179/",
+   "cover": "/lists/anime/covers/9436a908ac7dcab00881339d3bc8bf06.jpg"
+  },
+  {
    "title": "Jujutsu Kaisen",
    "meta": "2020–",
    "link": "https://www.imdb.com/title/tt12343534/",
    "cover": "/lists/anime/covers/67cdbf78003a5eb517f77db8ae77dd1f.jpg"
-  },
-  {
-   "title": "Mobile Suit Gundam",
-   "meta": "1979–1980",
-   "link": "https://www.imdb.com/title/tt0159172/",
-   "cover": "/lists/anime/covers/9284cd71022c8e96e06f178982951bd9.jpg"
   },
   {
    "title": "Ranma ½",
@@ -236,6 +212,30 @@
    "meta": "2004–2005",
    "link": "https://www.imdb.com/title/tt0434706/",
    "cover": "/lists/anime/covers/cffd835fb870a44bf8751b0e776f46bf.jpg"
+  },
+  {
+   "title": "Code Geass: Lelouch of the Rebellion",
+   "meta": "2006–2008",
+   "link": "https://www.imdb.com/title/tt0994314/",
+   "cover": "/lists/anime/covers/e569b7cfd7fdff6f5ac40f1fcc12c006.jpg"
+  },
+  {
+   "title": "Future Boy Conan",
+   "meta": "1978",
+   "link": "https://www.imdb.com/title/tt0077013/",
+   "cover": "/lists/anime/covers/1945e1f902ca44febe4237b57349432c.jpg"
+  },
+  {
+   "title": "Legend of the Galactic Heroes",
+   "meta": "1988–1997",
+   "link": "https://www.imdb.com/title/tt0096633/",
+   "cover": "/lists/anime/covers/ed57dbd6b34a39cc16e47fbf5f916cb6.jpg"
+  },
+  {
+   "title": "Mobile Suit Gundam",
+   "meta": "1979–1980",
+   "link": "https://www.imdb.com/title/tt0159172/",
+   "cover": "/lists/anime/covers/9284cd71022c8e96e06f178982951bd9.jpg"
   },
   {
    "title": "Space Battleship Yamato",
@@ -340,6 +340,12 @@
    "cover": "/lists/anime/covers/77550774d52c370d88de71ef3e228b03.jpg"
   },
   {
+   "title": "Kamisama Kiss",
+   "meta": "2012–2016",
+   "link": "https://www.imdb.com/title/tt2320220/",
+   "cover": "/lists/anime/covers/46e5dc613e988a7c7600754860a0393d.jpg"
+  },
+  {
    "title": "Chainsaw Man",
    "meta": "2022",
    "link": "https://www.imdb.com/title/tt13616990/",
@@ -424,12 +430,6 @@
    "cover": "/lists/anime/covers/d55e58b9177625fc35d25411ad26d719.jpg"
   },
   {
-   "title": "Bleach: Thousand-Year Blood War",
-   "meta": "2022–",
-   "link": "https://www.imdb.com/title/tt14986406/",
-   "cover": "/lists/anime/covers/04ac3ab2a39fe6f743ef0b058ea5fa2e.jpg"
-  },
-  {
    "title": "My Hero Academia",
    "meta": "2016–2026",
    "link": "https://www.imdb.com/title/tt5626028/",
@@ -466,28 +466,10 @@
    "cover": "/lists/anime/covers/b74fa0327ea9b78b6423e0acd48562b8.jpg"
   },
   {
-   "title": "Princess Tutu",
-   "meta": "2002–2003",
-   "link": "https://www.imdb.com/title/tt0444745/",
-   "cover": "/lists/anime/covers/1f02de6e68c66235f59434cb5be852a8.jpg"
-  },
-  {
-   "title": "Kaiji: Ultimate Survivor",
-   "meta": "2007–2011",
-   "link": "https://www.imdb.com/title/tt1202625/",
-   "cover": "/lists/anime/covers/f905e73843eecb62c7dc9e06d7850c68.jpg"
-  },
-  {
    "title": "Bakemonogatari",
    "meta": "2009–2013",
    "link": "https://www.imdb.com/title/tt1480925/",
    "cover": "/lists/anime/covers/52486a65684bb700f5d038ef8f43a7e2.jpg"
-  },
-  {
-   "title": "Tomorrow's Joe",
-   "meta": "1970–1981",
-   "link": "https://www.imdb.com/title/tt1690397/",
-   "cover": "/lists/anime/covers/be931e832feb125f6899e8050a82f110.jpg"
   },
   {
    "title": "Shaman King",
@@ -508,28 +490,10 @@
    "cover": "/lists/anime/covers/69eff82c823f1260f6f62524e1a1ef94.jpg"
   },
   {
-   "title": "Psycho-Pass",
-   "meta": "2012–2019",
-   "link": "https://www.imdb.com/title/tt2379308/",
-   "cover": "/lists/anime/covers/894b62c4dd711b7484d11b0cc3eaefac.jpg"
-  },
-  {
-   "title": "Monogatari Series: Second Season",
-   "meta": "2013",
-   "link": "https://www.imdb.com/title/tt2922300/",
-   "cover": "/lists/anime/covers/17937751b1fc52649d42e443f7a7b991.jpg"
-  },
-  {
    "title": "Food Wars: Shokugeki no Soma",
    "meta": "2015–2020",
    "link": "https://www.imdb.com/title/tt4731072/",
    "cover": "/lists/anime/covers/5a99c7e1772f861502b559347ea56142.jpg"
-  },
-  {
-   "title": "Kamisama Kiss",
-   "meta": "2012–2016",
-   "link": "https://www.imdb.com/title/tt2320220/",
-   "cover": "/lists/anime/covers/46e5dc613e988a7c7600754860a0393d.jpg"
   },
   {
    "title": "Eureka Seven",
@@ -544,12 +508,6 @@
    "cover": "/lists/anime/covers/aa7a7be4a8133f07f87e3278381c3e0d.jpg"
   },
   {
-   "title": "Mushi-Shi: Next Passage",
-   "meta": "2014–2015",
-   "link": "https://www.imdb.com/title/tt3443522/",
-   "cover": "/lists/anime/covers/f89d048aed960e6b467789aaf489bda0.jpg"
-  },
-  {
    "title": "Ghost in the Shell: Stand Alone Complex",
    "meta": "2002–2005",
    "link": "https://www.imdb.com/title/tt0346314/",
@@ -560,12 +518,6 @@
    "meta": "2006",
    "link": "https://www.imdb.com/title/tt0857297/",
    "cover": "/lists/anime/covers/6c44188d5c9355a3c839822f358c6d98.jpg"
-  },
-  {
-   "title": "Fruits Basket",
-   "meta": "2019–2021",
-   "link": "https://www.imdb.com/title/tt9304350/",
-   "cover": "/lists/anime/covers/809f967157932f9bf37f8670e22d24bf.jpg"
   },
   {
    "title": "Planetes",
@@ -604,40 +556,10 @@
    "cover": "/lists/anime/covers/0768ad435e71435b44037f6318d7deeb.jpg"
   },
   {
-   "title": "Aria the Origination",
-   "meta": "2008",
-   "link": "https://www.imdb.com/title/tt1151013/",
-   "cover": "/lists/anime/covers/2064193e3287dba8519b0732c583c98c.jpg"
-  },
-  {
    "title": "Gunbuster",
    "meta": "1988–1989 · Miniseries",
    "link": "https://www.imdb.com/title/tt0098492/",
    "cover": "/lists/anime/covers/3d99552bf4148b2eccc162af6908d32d.jpg"
-  },
-  {
-   "title": "Banana Fish",
-   "meta": "2018",
-   "link": "https://www.imdb.com/title/tt8515016/",
-   "cover": "/lists/anime/covers/1e51070c56164101eb7678ef832d486f.jpg"
-  },
-  {
-   "title": "Aikatsu Stars!",
-   "meta": "2016–2018",
-   "link": "https://www.imdb.com/title/tt9864008/",
-   "cover": "/lists/anime/covers/73ce454930203ecd17cd396284803567.jpg"
-  },
-  {
-   "title": "Haikyuu!!",
-   "meta": "2014–2020",
-   "link": "https://www.imdb.com/title/tt3398540/",
-   "cover": "/lists/anime/covers/c11d454b8e2abb1441489b2c99e0f740.jpg"
-  },
-  {
-   "title": "Lady Oscar: The Rose of Versailles",
-   "meta": "1979–1980",
-   "link": "https://www.imdb.com/title/tt0078570/",
-   "cover": "/lists/anime/covers/f7cd842216cf5e6f9397e92e1339bfb8.jpg"
   },
   {
    "title": "Giant Robo: The Day the Earth Stood Still",
@@ -652,40 +574,16 @@
    "cover": "/lists/anime/covers/dba4662737d8a576f57b9034f7b66b0e.jpg"
   },
   {
-   "title": "Natsume's Book of Friends",
-   "meta": "2008–2025",
-   "link": "https://www.imdb.com/title/tt1352421/",
-   "cover": "/lists/anime/covers/f0a3dc20aeeaec03e7bc6f711e3e95aa.jpg"
-  },
-  {
    "title": "Kaiba",
    "meta": "2008 · Miniseries",
    "link": "https://www.imdb.com/title/tt1209386/",
    "cover": "/lists/anime/covers/61283fc21f553cb8f61b0bac73012eb6.jpg"
   },
   {
-   "title": "Maison Ikkoku",
-   "meta": "1986–1988",
-   "link": "https://www.imdb.com/title/tt0090479/",
-   "cover": "/lists/anime/covers/44bc51e141e4f2f33672e19c650682d8.jpg"
-  },
-  {
    "title": "Turn A Gundam",
    "meta": "1999–2000",
    "link": "https://www.imdb.com/title/tt0189318/",
    "cover": "/lists/anime/covers/66cf1b02401fd1f600e4a7a34b433f15.jpg"
-  },
-  {
-   "title": "Rurouni Kenshin: Trust & Betrayal",
-   "meta": "1999 · Miniseries",
-   "link": "https://www.imdb.com/title/tt0203082/",
-   "cover": "/lists/anime/covers/5dc55397941f58204209f6137c624ac8.jpg"
-  },
-  {
-   "title": "Chihayafuru",
-   "meta": "2011–2020",
-   "link": "https://www.imdb.com/title/tt2150751/",
-   "cover": "/lists/anime/covers/5e2f7f926e9653eb9541d15e08006a3d.jpg"
   },
   {
    "title": "Tenchi Muyo!",
@@ -698,12 +596,6 @@
    "meta": "1978–1981",
    "link": "https://www.imdb.com/title/tt0185066/",
    "cover": "/lists/anime/covers/a97de652876b5d5250adaf39acf2536b.jpg"
-  },
-  {
-   "title": "Bunny Drop",
-   "meta": "2011–2012 · Miniseries",
-   "link": "https://www.imdb.com/title/tt2061551/",
-   "cover": "/lists/anime/covers/09498c98b1d3df2dfed4955611e9b342.jpg"
   },
   {
    "title": "Martian Successor Nadesico",
