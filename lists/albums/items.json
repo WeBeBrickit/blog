@@ -1,7 +1,7 @@
 {
  "title": "Favorite Albums",
  "description": "The records I'd save from a fire, ranked.",
- "synced": "2026-11-17",
+ "synced": "2026-11-18",
  "items": [
   {
    "title": "The Dark Side of the Moon",
@@ -106,22 +106,22 @@
    "cover": "/lists/albums/covers/5bf23b1b749495e93d47d1c013a0bb49.jpg"
   },
   {
-   "title": "Weezer (Blue Album)",
-   "meta": "Weezer · 1994",
-   "link": "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)",
-   "cover": "/lists/albums/covers/2c4975957371e5fff8cf81659a05dfdf.jpg"
-  },
-  {
    "title": "Sublime",
    "meta": "Sublime · 1996",
    "link": "https://en.wikipedia.org/wiki/Sublime_(album)",
    "cover": "/lists/albums/covers/aa1f03d692eccdb9b7765e8404cf78ac.jpg"
   },
   {
-   "title": "Currents",
-   "meta": "Tame Impala · 2015",
-   "link": "https://en.wikipedia.org/wiki/Currents_(album)",
-   "cover": "/lists/albums/covers/0b581df7ef71666c08371cfe2008f5df.jpg"
+   "title": "Weezer (Blue Album)",
+   "meta": "Weezer · 1994",
+   "link": "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)",
+   "cover": "/lists/albums/covers/2c4975957371e5fff8cf81659a05dfdf.jpg"
+  },
+  {
+   "title": "Sgt. Pepper's Lonely Hearts Club Band",
+   "meta": "The Beatles · 1967",
+   "link": "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band",
+   "cover": "/lists/albums/covers/2e963e00f37fcf9ee90fe9dc64939a40.jpg"
   },
   {
    "title": "The Wall",
@@ -136,6 +136,12 @@
    "cover": "/lists/albums/covers/48b0f74cf8ff755bfd515bbd0ba376a3.jpg"
   },
   {
+   "title": "Currents",
+   "meta": "Tame Impala · 2015",
+   "link": "https://en.wikipedia.org/wiki/Currents_(album)",
+   "cover": "/lists/albums/covers/0b581df7ef71666c08371cfe2008f5df.jpg"
+  },
+  {
    "title": "99.9%",
    "meta": "KAYTRANADA · 2016",
    "link": "https://en.wikipedia.org/wiki/99.9%25",
@@ -148,28 +154,22 @@
    "cover": "/lists/albums/covers/9c8dc1ecf13ebaf9b4b9255b1c67b169.jpg"
   },
   {
+   "title": "The English Riviera",
+   "meta": "Metronomy · 2011",
+   "link": "https://en.wikipedia.org/wiki/The_English_Riviera_(album)",
+   "cover": "/lists/albums/covers/1dad84f6a47526a6b5704db43ded52c5.jpg"
+  },
+  {
    "title": "Good News for People Who Love Bad News",
    "meta": "Modest Mouse · 2004",
    "link": "https://en.wikipedia.org/wiki/Good_News_for_People_Who_Love_Bad_News",
    "cover": "/lists/albums/covers/3dc9b8c91501d538a3ceb4ea786deedf.jpg"
   },
   {
-   "title": "Sgt. Pepper's Lonely Hearts Club Band",
-   "meta": "The Beatles · 1967",
-   "link": "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band",
-   "cover": "/lists/albums/covers/2e963e00f37fcf9ee90fe9dc64939a40.jpg"
-  },
-  {
    "title": "DAMN.",
    "meta": "Kendrick Lamar · 2017",
    "link": "https://en.wikipedia.org/wiki/Damn_(album)",
    "cover": "/lists/albums/covers/3d83f9b2345c912e40221d91842b82ac.jpg"
-  },
-  {
-   "title": "The English Riviera",
-   "meta": "Metronomy · 2011",
-   "link": "https://en.wikipedia.org/wiki/The_English_Riviera_(album)",
-   "cover": "/lists/albums/covers/1dad84f6a47526a6b5704db43ded52c5.jpg"
   },
   {
    "title": "Yoshimi Battles the Pink Robots",
@@ -220,16 +220,16 @@
    "cover": "/lists/albums/covers/4ed6544e5ab0184fe9b34e59700ad551.jpg"
   },
   {
-   "title": "Music From NFL Films, Vol. 1",
-   "meta": "Sam Spence · 1970",
-   "link": "https://open.spotify.com/album/5bhiUA8XEPPp29O9Z6Zkrp",
-   "cover": "/lists/albums/covers/fe0f7a2b12b63370a8cb09f84f25915f.jpg"
-  },
-  {
    "title": "Pinkerton",
    "meta": "Weezer · 1996",
    "link": "https://en.wikipedia.org/wiki/Pinkerton_(album)",
    "cover": "/lists/albums/covers/7843f14be11d1f57b27b46c97bbf01ae.jpg"
+  },
+  {
+   "title": "Music From NFL Films, Vol. 1",
+   "meta": "Sam Spence · 1970",
+   "link": "https://open.spotify.com/album/5bhiUA8XEPPp29O9Z6Zkrp",
+   "cover": "/lists/albums/covers/fe0f7a2b12b63370a8cb09f84f25915f.jpg"
   },
   {
    "title": "Tragic Kingdom",
@@ -238,22 +238,28 @@
    "cover": "/lists/albums/covers/f35f023acdd606b55cd0f4948c5879d3.jpg"
   },
   {
+   "title": "Van Halen",
+   "meta": "Van Halen · 1978",
+   "link": "https://en.wikipedia.org/wiki/Van_Halen_(album)",
+   "cover": "/lists/albums/covers/60e362d993f2d08a32873b91cfaf1188.jpg"
+  },
+  {
    "title": "Sound & Color",
    "meta": "Alabama Shakes · 2015",
    "link": "https://en.wikipedia.org/wiki/Sound_%26_Color",
    "cover": "/lists/albums/covers/b06a43bada9af48ef9f38eab86801274.jpg"
   },
   {
-   "title": "Brothers",
-   "meta": "The Black Keys · 2010",
-   "link": "https://en.wikipedia.org/wiki/Brothers_(The_Black_Keys_album)",
-   "cover": "/lists/albums/covers/ff167c77fc07f1c3740d2ba4c5f557bd.jpg"
-  },
-  {
    "title": "Random Access Memories",
    "meta": "Daft Punk · 2013",
    "link": "https://en.wikipedia.org/wiki/Random_Access_Memories",
    "cover": "/lists/albums/covers/0a298ae4d69d3379b3d5e2917a911f7d.jpg"
+  },
+  {
+   "title": "Brothers",
+   "meta": "The Black Keys · 2010",
+   "link": "https://en.wikipedia.org/wiki/Brothers_(The_Black_Keys_album)",
+   "cover": "/lists/albums/covers/ff167c77fc07f1c3740d2ba4c5f557bd.jpg"
   },
   {
    "title": "The Money Store",
@@ -268,22 +274,10 @@
    "cover": "/lists/albums/covers/c764918236b8d53c73b2620452343cba.jpg"
   },
   {
-   "title": "Van Halen",
-   "meta": "Van Halen · 1978",
-   "link": "https://en.wikipedia.org/wiki/Van_Halen_(album)",
-   "cover": "/lists/albums/covers/60e362d993f2d08a32873b91cfaf1188.jpg"
-  },
-  {
    "title": "The Slow Rush",
    "meta": "Tame Impala · 2020",
    "link": "https://en.wikipedia.org/wiki/The_Slow_Rush",
    "cover": "/lists/albums/covers/f628a0f5c3de6f3e1edb47514e3a6351.jpg"
-  },
-  {
-   "title": "Cowboy Bebop (Original Soundtrack)",
-   "meta": "Seatbelts · 1998",
-   "link": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9",
-   "cover": "/lists/albums/covers/af784d06ea17dacc94046ab26b537a56.jpg"
   },
   {
    "title": "This Is Happening",
@@ -292,16 +286,22 @@
    "cover": "/lists/albums/covers/924b02945c9dd5af3263ebdb89ecd6a8.jpg"
   },
   {
-   "title": "Fleet Foxes",
-   "meta": "Fleet Foxes · 2008",
-   "link": "https://en.wikipedia.org/wiki/Fleet_Foxes_(album)",
-   "cover": "/lists/albums/covers/07e688a4507eb0ce24de2af89f7dda4c.jpg"
+   "title": "Cowboy Bebop (Original Soundtrack)",
+   "meta": "Seatbelts · 1998",
+   "link": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9",
+   "cover": "/lists/albums/covers/af784d06ea17dacc94046ab26b537a56.jpg"
   },
   {
    "title": "Cross",
    "meta": "Justice · 2007",
    "link": "https://en.wikipedia.org/wiki/Cross_(Justice_album)",
    "cover": "/lists/albums/covers/6ddb84cadabc212e09561e4bad7041d9.jpg"
+  },
+  {
+   "title": "Fleet Foxes",
+   "meta": "Fleet Foxes · 2008",
+   "link": "https://en.wikipedia.org/wiki/Fleet_Foxes_(album)",
+   "cover": "/lists/albums/covers/07e688a4507eb0ce24de2af89f7dda4c.jpg"
   },
   {
    "title": "Audioslave",
@@ -316,12 +316,6 @@
    "cover": "/lists/albums/covers/5af451b3cc082d814607ad6cf46f464a.jpg"
   },
   {
-   "title": "Deltron 3030",
-   "meta": "Deltron 3030 · 2000",
-   "link": "https://en.wikipedia.org/wiki/Deltron_3030_(album)",
-   "cover": "/lists/albums/covers/35b51aac8953a482096afa6598a9fa4b.jpg"
-  },
-  {
    "title": "A Charlie Brown Christmas",
    "meta": "Vince Guaraldi · 1965",
    "link": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas_(soundtrack)",
@@ -334,34 +328,40 @@
    "cover": "/lists/albums/covers/4c80348c19bfb413575d3bcde415a7cb.jpg"
   },
   {
-   "title": "The Suburbs",
-   "meta": "Arcade Fire · 2010",
-   "link": "https://en.wikipedia.org/wiki/The_Suburbs",
-   "cover": "/lists/albums/covers/c6f60d5b19903f4e9bf84c7b30e0a582.jpg"
-  },
-  {
-   "title": "A Rush of Blood to the Head",
-   "meta": "Coldplay · 2002",
-   "link": "https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head",
-   "cover": "/lists/albums/covers/52afb327188c9ba11f6c9c1ebf1ac502.jpg"
-  },
-  {
-   "title": "Ill Communication",
-   "meta": "Beastie Boys · 1994",
-   "link": "https://en.wikipedia.org/wiki/Ill_Communication",
-   "cover": "/lists/albums/covers/c03f787b1c593c52cd0d72707f4c61e3.jpg"
-  },
-  {
    "title": "Stankonia",
    "meta": "Outkast · 2000",
    "link": "https://en.wikipedia.org/wiki/Stankonia",
    "cover": "/lists/albums/covers/2ce03e4e7aa7a37b50108fb1bce4faa4.jpg"
   },
   {
+   "title": "Deltron 3030",
+   "meta": "Deltron 3030 · 2000",
+   "link": "https://en.wikipedia.org/wiki/Deltron_3030_(album)",
+   "cover": "/lists/albums/covers/35b51aac8953a482096afa6598a9fa4b.jpg"
+  },
+  {
+   "title": "The Suburbs",
+   "meta": "Arcade Fire · 2010",
+   "link": "https://en.wikipedia.org/wiki/The_Suburbs",
+   "cover": "/lists/albums/covers/c6f60d5b19903f4e9bf84c7b30e0a582.jpg"
+  },
+  {
+   "title": "Dookie",
+   "meta": "Green Day · 1994",
+   "link": "https://en.wikipedia.org/wiki/Dookie",
+   "cover": "/lists/albums/covers/99f071823ebff51ffdb73c31f547bd57.jpg"
+  },
+  {
    "title": "To Pimp a Butterfly",
    "meta": "Kendrick Lamar · 2015",
    "link": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly",
    "cover": "/lists/albums/covers/4607c794c87bb25e6bea4455716ef4c0.jpg"
+  },
+  {
+   "title": "A Rush of Blood to the Head",
+   "meta": "Coldplay · 2002",
+   "link": "https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head",
+   "cover": "/lists/albums/covers/52afb327188c9ba11f6c9c1ebf1ac502.jpg"
   },
   {
    "title": "Brat",
@@ -382,24 +382,6 @@
    "cover": "/lists/albums/covers/04186f07847f7aae458a84130c8c9f34.jpg"
   },
   {
-   "title": "Colors",
-   "meta": "Beck · 2017",
-   "link": "https://en.wikipedia.org/wiki/Colors_(Beck_album)",
-   "cover": "/lists/albums/covers/095e5c433d09c38292e0ffec3b0cc70f.jpg"
-  },
-  {
-   "title": "Amnesiac",
-   "meta": "Radiohead · 2001",
-   "link": "https://en.wikipedia.org/wiki/Amnesiac_(album)",
-   "cover": "/lists/albums/covers/924f7018f7498ac795ebf7baebdc79fd.jpg"
-  },
-  {
-   "title": "Dookie",
-   "meta": "Green Day · 1994",
-   "link": "https://en.wikipedia.org/wiki/Dookie",
-   "cover": "/lists/albums/covers/99f071823ebff51ffdb73c31f547bd57.jpg"
-  },
-  {
    "title": "Led Zeppelin II",
    "meta": "Led Zeppelin · 1969",
    "link": "https://en.wikipedia.org/wiki/Led_Zeppelin_II",
@@ -410,6 +392,12 @@
    "meta": "Vampire Weekend · 2008",
    "link": "https://en.wikipedia.org/wiki/Vampire_Weekend_(album)",
    "cover": "/lists/albums/covers/de0e224277c668e867295d9632074d71.jpg"
+  },
+  {
+   "title": "Colors",
+   "meta": "Beck · 2017",
+   "link": "https://en.wikipedia.org/wiki/Colors_(Beck_album)",
+   "cover": "/lists/albums/covers/095e5c433d09c38292e0ffec3b0cc70f.jpg"
   },
   {
    "title": "Treats",
@@ -430,36 +418,6 @@
    "cover": "/lists/albums/covers/a39ae2d8cf00e4982e3a95898584370a.jpg"
   },
   {
-   "title": "The New Abnormal",
-   "meta": "The Strokes · 2020",
-   "link": "https://en.wikipedia.org/wiki/The_New_Abnormal",
-   "cover": "/lists/albums/covers/26bab3cbfeb4b08c79bb33a000ca8865.jpg"
-  },
-  {
-   "title": "Channel Orange",
-   "meta": "Frank Ocean · 2012",
-   "link": "https://en.wikipedia.org/wiki/Channel_Orange",
-   "cover": "/lists/albums/covers/e7c93406a26bc3b351d861b50a7d15b1.jpg"
-  },
-  {
-   "title": "Nimrod",
-   "meta": "Green Day · 1997",
-   "link": "https://en.wikipedia.org/wiki/Nimrod_(album)",
-   "cover": "/lists/albums/covers/f23d6ff4a5c29fd80a657bee6d414437.jpg"
-  },
-  {
-   "title": "Swimmer",
-   "meta": "Tennis · 2020",
-   "link": "https://en.wikipedia.org/wiki/Swimmer_(Tennis_album)",
-   "cover": "/lists/albums/covers/b97b5c605fd9db0f27cfa626e8fddde9.jpg"
-  },
-  {
-   "title": "Yours, Dreamily,",
-   "meta": "The Arcs · 2015",
-   "link": "https://en.wikipedia.org/wiki/Yours%2C_Dreamily%2C",
-   "cover": "/lists/albums/covers/c5bdf65867d3026cc02bf4370f484669.jpg"
-  },
-  {
    "title": "Run the Jewels 2",
    "meta": "Run The Jewels · 2014",
    "link": "https://en.wikipedia.org/wiki/Run_the_Jewels_2",
@@ -472,16 +430,40 @@
    "cover": "/lists/albums/covers/39979d011f0a464d1253b792354ec54a.jpg"
   },
   {
+   "title": "Are You Experienced",
+   "meta": "Jimi Hendrix · 1967",
+   "link": "https://en.wikipedia.org/wiki/Are_You_Experienced",
+   "cover": "/lists/albums/covers/080b12b6ce7285c873f79ca04358cae2.jpg"
+  },
+  {
+   "title": "Channel Orange",
+   "meta": "Frank Ocean · 2012",
+   "link": "https://en.wikipedia.org/wiki/Channel_Orange",
+   "cover": "/lists/albums/covers/e7c93406a26bc3b351d861b50a7d15b1.jpg"
+  },
+  {
+   "title": "The New Abnormal",
+   "meta": "The Strokes · 2020",
+   "link": "https://en.wikipedia.org/wiki/The_New_Abnormal",
+   "cover": "/lists/albums/covers/26bab3cbfeb4b08c79bb33a000ca8865.jpg"
+  },
+  {
+   "title": "Swimmer",
+   "meta": "Tennis · 2020",
+   "link": "https://en.wikipedia.org/wiki/Swimmer_(Tennis_album)",
+   "cover": "/lists/albums/covers/b97b5c605fd9db0f27cfa626e8fddde9.jpg"
+  },
+  {
    "title": "Caravelle",
    "meta": "Polo & Pan · 2017",
    "link": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT",
    "cover": "/lists/albums/covers/10029136f41276fbd5396fb977eb8f6e.jpg"
   },
   {
-   "title": "Whatever People Say I Am, That's What I'm Not",
-   "meta": "Arctic Monkeys · 2006",
-   "link": "https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am%2C_That's_What_I'm_Not",
-   "cover": "/lists/albums/covers/4681b7432ab2b97a47a70622dfce120b.jpg"
+   "title": "Yours, Dreamily,",
+   "meta": "The Arcs · 2015",
+   "link": "https://en.wikipedia.org/wiki/Yours%2C_Dreamily%2C",
+   "cover": "/lists/albums/covers/c5bdf65867d3026cc02bf4370f484669.jpg"
   },
   {
    "title": "Godsmack",
@@ -490,16 +472,22 @@
    "cover": "/lists/albums/covers/7c73b00c28132f349606ec17bcfe2cba.jpg"
   },
   {
+   "title": "Nimrod",
+   "meta": "Green Day · 1997",
+   "link": "https://en.wikipedia.org/wiki/Nimrod_(album)",
+   "cover": "/lists/albums/covers/f23d6ff4a5c29fd80a657bee6d414437.jpg"
+  },
+  {
    "title": "Disraeli Gears",
    "meta": "Cream · 1967",
    "link": "https://en.wikipedia.org/wiki/Disraeli_Gears",
    "cover": "/lists/albums/covers/90f80be076ff295ea606c2b5b9bc176b.jpg"
   },
   {
-   "title": "Are You Experienced",
-   "meta": "Jimi Hendrix · 1967",
-   "link": "https://en.wikipedia.org/wiki/Are_You_Experienced",
-   "cover": "/lists/albums/covers/080b12b6ce7285c873f79ca04358cae2.jpg"
+   "title": "Whatever People Say I Am, That's What I'm Not",
+   "meta": "Arctic Monkeys · 2006",
+   "link": "https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am%2C_That's_What_I'm_Not",
+   "cover": "/lists/albums/covers/4681b7432ab2b97a47a70622dfce120b.jpg"
   },
   {
    "title": "Parachutes",
@@ -532,16 +520,16 @@
    "cover": "/lists/albums/covers/c632d7e1f51fc3075e0fa3650a938e00.jpg"
   },
   {
-   "title": "Turn Blue",
-   "meta": "The Black Keys · 2014",
-   "link": "https://en.wikipedia.org/wiki/Turn_Blue_(album)",
-   "cover": "/lists/albums/covers/c9fb80ca3e616b58ef847c1e0b41d178.jpg"
-  },
-  {
    "title": "xx",
    "meta": "The xx · 2009",
    "link": "https://en.wikipedia.org/wiki/Xx_(The_xx_album)",
    "cover": "/lists/albums/covers/cd8d1f5ad69795a53c12c2860c92e2c3.jpg"
+  },
+  {
+   "title": "Turn Blue",
+   "meta": "The Black Keys · 2014",
+   "link": "https://en.wikipedia.org/wiki/Turn_Blue_(album)",
+   "cover": "/lists/albums/covers/c9fb80ca3e616b58ef847c1e0b41d178.jpg"
   },
   {
    "title": "Axis: Bold as Love",
@@ -556,28 +544,22 @@
    "cover": "/lists/albums/covers/300cc2321ad8e1eee972381a6bfff8f8.jpg"
   },
   {
-   "title": "Favourite Worst Nightmare",
-   "meta": "Arctic Monkeys · 2007",
-   "link": "https://en.wikipedia.org/wiki/Favourite_Worst_Nightmare",
-   "cover": "/lists/albums/covers/e1299685df2e0f34e918eefaefd1ce11.jpg"
-  },
-  {
    "title": "LP!",
    "meta": "JPEGMAFIA · 2021",
    "link": "https://en.wikipedia.org/wiki/LP!",
    "cover": "/lists/albums/covers/076f7d0770961a49eaf4859231390f88.jpg"
   },
   {
+   "title": "Favourite Worst Nightmare",
+   "meta": "Arctic Monkeys · 2007",
+   "link": "https://en.wikipedia.org/wiki/Favourite_Worst_Nightmare",
+   "cover": "/lists/albums/covers/e1299685df2e0f34e918eefaefd1ce11.jpg"
+  },
+  {
    "title": "Run the Jewels 3",
    "meta": "Run The Jewels · 2016",
    "link": "https://en.wikipedia.org/wiki/Run_the_Jewels_3",
    "cover": "/lists/albums/covers/8c3db2b0642547160ca543c74a2a5958.jpg"
-  },
-  {
-   "title": "L.A. Woman",
-   "meta": "The Doors · 1971",
-   "link": "https://en.wikipedia.org/wiki/L.A._Woman",
-   "cover": "/lists/albums/covers/906cdfd36f4cda92313de548a09481cd.jpg"
   },
   {
    "title": "Superunknown",
@@ -592,6 +574,12 @@
    "cover": "/lists/albums/covers/8c9cbf6d56b75b71afa515c39208d244.jpg"
   },
   {
+   "title": "L.A. Woman",
+   "meta": "The Doors · 1971",
+   "link": "https://en.wikipedia.org/wiki/L.A._Woman",
+   "cover": "/lists/albums/covers/906cdfd36f4cda92313de548a09481cd.jpg"
+  },
+  {
    "title": "Franz Ferdinand",
    "meta": "Franz Ferdinand · 2004",
    "link": "https://en.wikipedia.org/wiki/Franz_Ferdinand_(album)",
@@ -604,16 +592,22 @@
    "cover": "/lists/albums/covers/acb237f8cb20dbbee80fb76b752cdfe4.jpg"
   },
   {
-   "title": "The Life of Pablo",
-   "meta": "Kanye West · 2016",
-   "link": "https://en.wikipedia.org/wiki/The_Life_of_Pablo",
-   "cover": "/lists/albums/covers/011ef6d067885375e09cbabd00710297.jpg"
-  },
-  {
    "title": "Oracular Spectacular",
    "meta": "MGMT · 2007",
    "link": "https://en.wikipedia.org/wiki/Oracular_Spectacular",
    "cover": "/lists/albums/covers/263ceb0ea93d1983158f426895d41e15.jpg"
+  },
+  {
+   "title": "The Eraser",
+   "meta": "Thom Yorke · 2006",
+   "link": "https://en.wikipedia.org/wiki/The_Eraser",
+   "cover": "/lists/albums/covers/5e598f1af51d86cb0b8ece24d0fdf092.jpg"
+  },
+  {
+   "title": "The Life of Pablo",
+   "meta": "Kanye West · 2016",
+   "link": "https://en.wikipedia.org/wiki/The_Life_of_Pablo",
+   "cover": "/lists/albums/covers/011ef6d067885375e09cbabd00710297.jpg"
   },
   {
    "title": "You've Come a Long Way, Baby",
@@ -634,34 +628,10 @@
    "cover": "/lists/albums/covers/f51086e2789dce37fd03ac9703bce418.jpg"
   },
   {
-   "title": "The Eraser",
-   "meta": "Thom Yorke · 2006",
-   "link": "https://en.wikipedia.org/wiki/The_Eraser",
-   "cover": "/lists/albums/covers/5e598f1af51d86cb0b8ece24d0fdf092.jpg"
-  },
-  {
-   "title": "How to Be a Human Being",
-   "meta": "Glass Animals · 2016",
-   "link": "https://en.wikipedia.org/wiki/How_to_Be_a_Human_Being",
-   "cover": "/lists/albums/covers/a4d43fbb125e3ca162ed1bfc889c0786.jpg"
-  },
-  {
    "title": "Eyelid Movies",
    "meta": "Phantogram · 2010",
    "link": "https://en.wikipedia.org/wiki/Eyelid_Movies",
    "cover": "/lists/albums/covers/51435544e7fdbd3ed1c0c4f9d2a70c30.jpg"
-  },
-  {
-   "title": "Ga Ga Ga Ga Ga",
-   "meta": "Spoon · 2007",
-   "link": "https://en.wikipedia.org/wiki/Ga_Ga_Ga_Ga_Ga",
-   "cover": "/lists/albums/covers/04a5cc12354043948daf42151d3b5051.jpg"
-  },
-  {
-   "title": "The E.N.D.",
-   "meta": "Black Eyed Peas · 2009",
-   "link": "https://en.wikipedia.org/wiki/The_E.N.D.",
-   "cover": "/lists/albums/covers/d452d997e0f856885e0d706142aaef8d.jpg"
   },
   {
    "title": "Wolfmother",
@@ -670,16 +640,16 @@
    "cover": "/lists/albums/covers/860d79ae77c08381045575ac95422b20.jpg"
   },
   {
-   "title": "Datarock Datarock",
-   "meta": "Datarock · 2005",
-   "link": "https://en.wikipedia.org/wiki/Datarock_Datarock",
-   "cover": "/lists/albums/covers/e347a517f4c52d39ebcd2232fce7fac6.jpg"
+   "title": "Hybrid Theory",
+   "meta": "Linkin Park · 2000",
+   "link": "https://en.wikipedia.org/wiki/Hybrid_Theory",
+   "cover": "/lists/albums/covers/be8daba1bf41954e8acc80e6939160bf.jpg"
   },
   {
-   "title": "So Much for the Afterglow",
-   "meta": "Everclear · 1997",
-   "link": "https://en.wikipedia.org/wiki/So_Much_for_the_Afterglow",
-   "cover": "/lists/albums/covers/25c1a0e3802674f348cecea573d2e139.jpg"
+   "title": "Ga Ga Ga Ga Ga",
+   "meta": "Spoon · 2007",
+   "link": "https://en.wikipedia.org/wiki/Ga_Ga_Ga_Ga_Ga",
+   "cover": "/lists/albums/covers/04a5cc12354043948daf42151d3b5051.jpg"
   },
   {
    "title": "Wincing the Night Away",
@@ -688,10 +658,34 @@
    "cover": "/lists/albums/covers/4bafa003a22c0a1a97ef6e013b218e01.jpg"
   },
   {
+   "title": "The E.N.D.",
+   "meta": "Black Eyed Peas · 2009",
+   "link": "https://en.wikipedia.org/wiki/The_E.N.D.",
+   "cover": "/lists/albums/covers/d452d997e0f856885e0d706142aaef8d.jpg"
+  },
+  {
+   "title": "How to Be a Human Being",
+   "meta": "Glass Animals · 2016",
+   "link": "https://en.wikipedia.org/wiki/How_to_Be_a_Human_Being",
+   "cover": "/lists/albums/covers/a4d43fbb125e3ca162ed1bfc889c0786.jpg"
+  },
+  {
+   "title": "So Much for the Afterglow",
+   "meta": "Everclear · 1997",
+   "link": "https://en.wikipedia.org/wiki/So_Much_for_the_Afterglow",
+   "cover": "/lists/albums/covers/25c1a0e3802674f348cecea573d2e139.jpg"
+  },
+  {
    "title": "Ctrl",
    "meta": "SZA · 2017",
    "link": "https://en.wikipedia.org/wiki/Ctrl_(SZA_album)",
    "cover": "/lists/albums/covers/e7ce71affa7fbc3dbcb6fc14ec9f81c7.jpg"
+  },
+  {
+   "title": "Datarock Datarock",
+   "meta": "Datarock · 2005",
+   "link": "https://en.wikipedia.org/wiki/Datarock_Datarock",
+   "cover": "/lists/albums/covers/e347a517f4c52d39ebcd2232fce7fac6.jpg"
   },
   {
    "title": "Virtue",
@@ -700,16 +694,16 @@
    "cover": "/lists/albums/covers/4c211099bd37ab8727741b8f963b681e.jpg"
   },
   {
-   "title": "The Low End Theory",
-   "meta": "A Tribe Called Quest · 1991",
-   "link": "https://en.wikipedia.org/wiki/The_Low_End_Theory",
-   "cover": "/lists/albums/covers/f56e0495a799332585f0d91e75e5017e.jpg"
-  },
-  {
    "title": "Stop Making Sense",
    "meta": "Talking Heads · 1984",
    "link": "https://en.wikipedia.org/wiki/Stop_Making_Sense_(album)",
    "cover": "/lists/albums/covers/1a30b71085529f129656e1f1e6a33636.jpg"
+  },
+  {
+   "title": "The Low End Theory",
+   "meta": "A Tribe Called Quest · 1991",
+   "link": "https://en.wikipedia.org/wiki/The_Low_End_Theory",
+   "cover": "/lists/albums/covers/f56e0495a799332585f0d91e75e5017e.jpg"
   },
   {
    "title": "CrazySexyCool",
@@ -718,64 +712,16 @@
    "cover": "/lists/albums/covers/465df2894055c63b06aba3adc3047adf.jpg"
   },
   {
-   "title": "Graduation",
-   "meta": "Kanye West · 2007",
-   "link": "https://en.wikipedia.org/wiki/Graduation_(album)",
-   "cover": "/lists/albums/covers/9b82652115a16efa4b5d778de0c284ed.jpg"
-  },
-  {
-   "title": "Down on the Upside",
-   "meta": "Soundgarden · 1996",
-   "link": "https://en.wikipedia.org/wiki/Down_on_the_Upside",
-   "cover": "/lists/albums/covers/0ad116aaf6fd5b36be8ba6d5042c04b4.jpg"
-  },
-  {
-   "title": "Hybrid Theory",
-   "meta": "Linkin Park · 2000",
-   "link": "https://en.wikipedia.org/wiki/Hybrid_Theory",
-   "cover": "/lists/albums/covers/be8daba1bf41954e8acc80e6939160bf.jpg"
-  },
-  {
-   "title": "This Old Dog",
-   "meta": "Mac DeMarco · 2017",
-   "link": "https://en.wikipedia.org/wiki/This_Old_Dog",
-   "cover": "/lists/albums/covers/94b049eff6959e7df27eea1306656bf3.jpg"
-  },
-  {
-   "title": "Madvillainy",
-   "meta": "Madvillain · 2004",
-   "link": "https://en.wikipedia.org/wiki/Madvillainy",
-   "cover": "/lists/albums/covers/479e79bd25de47f7503474e7cbce17e6.jpg"
-  },
-  {
-   "title": "Exodus",
-   "meta": "Bob Marley and the Wailers · 1977",
-   "link": "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)",
-   "cover": "/lists/albums/covers/05cc3eb5daa15257b85ad65d4db25826.jpg"
-  },
-  {
-   "title": "Big Grams",
-   "meta": "Big Grams · 2015",
-   "link": "https://en.wikipedia.org/wiki/Big_Grams",
-   "cover": "/lists/albums/covers/2a9c06eb129d4a95062d48e1b24e6b92.jpg"
-  },
-  {
-   "title": "Meddle",
-   "meta": "Pink Floyd · 1971",
-   "link": "https://en.wikipedia.org/wiki/Meddle",
-   "cover": "/lists/albums/covers/7430cd31776ec67f0c64d188c6e4d388.jpg"
-  },
-  {
-   "title": "OK Computer",
-   "meta": "Radiohead · 1997",
-   "link": "https://en.wikipedia.org/wiki/OK_Computer",
-   "cover": "/lists/albums/covers/374349651978248f6a3e6970e6d2df45.jpg"
-  },
-  {
    "title": "Nevermind",
    "meta": "Nirvana · 1991",
    "link": "https://en.wikipedia.org/wiki/Nevermind",
    "cover": "/lists/albums/covers/a485cf6f6de62193315abee97aff13f2.jpg"
+  },
+  {
+   "title": "Graduation",
+   "meta": "Kanye West · 2007",
+   "link": "https://en.wikipedia.org/wiki/Graduation_(album)",
+   "cover": "/lists/albums/covers/9b82652115a16efa4b5d778de0c284ed.jpg"
   },
   {
    "title": "Give Up",
@@ -784,16 +730,16 @@
    "cover": "/lists/albums/covers/eba5d26a143c9ce0e5e9b92594a35a4d.jpg"
   },
   {
+   "title": "Down on the Upside",
+   "meta": "Soundgarden · 1996",
+   "link": "https://en.wikipedia.org/wiki/Down_on_the_Upside",
+   "cover": "/lists/albums/covers/0ad116aaf6fd5b36be8ba6d5042c04b4.jpg"
+  },
+  {
    "title": "Apocalypse",
    "meta": "Thundercat · 2013",
    "link": "https://en.wikipedia.org/wiki/Apocalypse_(Thundercat_album)",
    "cover": "/lists/albums/covers/5546fa6110f4f1ad258d67e0bd4e249b.jpg"
-  },
-  {
-   "title": "Costello Music",
-   "meta": "The Fratellis · 2006",
-   "link": "https://en.wikipedia.org/wiki/Costello_Music",
-   "cover": "/lists/albums/covers/9aad02a9be27eed0865eecf6dba275f2.jpg"
   },
   {
    "title": "Appetite for Destruction",
@@ -802,10 +748,64 @@
    "cover": "/lists/albums/covers/50cce7aadacbfcec085df95c83911e78.jpg"
   },
   {
+   "title": "Exodus",
+   "meta": "Bob Marley and the Wailers · 1977",
+   "link": "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)",
+   "cover": "/lists/albums/covers/05cc3eb5daa15257b85ad65d4db25826.jpg"
+  },
+  {
+   "title": "Ratatat",
+   "meta": "Ratatat · 2004",
+   "link": "https://en.wikipedia.org/wiki/Ratatat_(album)",
+   "cover": "/lists/albums/covers/58ef46d6d160680a761ad228f136614b.jpg"
+  },
+  {
+   "title": "Costello Music",
+   "meta": "The Fratellis · 2006",
+   "link": "https://en.wikipedia.org/wiki/Costello_Music",
+   "cover": "/lists/albums/covers/9aad02a9be27eed0865eecf6dba275f2.jpg"
+  },
+  {
+   "title": "This Old Dog",
+   "meta": "Mac DeMarco · 2017",
+   "link": "https://en.wikipedia.org/wiki/This_Old_Dog",
+   "cover": "/lists/albums/covers/94b049eff6959e7df27eea1306656bf3.jpg"
+  },
+  {
+   "title": "Meddle",
+   "meta": "Pink Floyd · 1971",
+   "link": "https://en.wikipedia.org/wiki/Meddle",
+   "cover": "/lists/albums/covers/7430cd31776ec67f0c64d188c6e4d388.jpg"
+  },
+  {
+   "title": "Madvillainy",
+   "meta": "Madvillain · 2004",
+   "link": "https://en.wikipedia.org/wiki/Madvillainy",
+   "cover": "/lists/albums/covers/479e79bd25de47f7503474e7cbce17e6.jpg"
+  },
+  {
    "title": "Power in Numbers",
    "meta": "Jurassic 5 · 2002",
    "link": "https://en.wikipedia.org/wiki/Power_in_Numbers",
    "cover": "/lists/albums/covers/2a7080213407e144eb75980422565103.jpg"
+  },
+  {
+   "title": "Big Grams",
+   "meta": "Big Grams · 2015",
+   "link": "https://en.wikipedia.org/wiki/Big_Grams",
+   "cover": "/lists/albums/covers/2a9c06eb129d4a95062d48e1b24e6b92.jpg"
+  },
+  {
+   "title": "OK Computer",
+   "meta": "Radiohead · 1997",
+   "link": "https://en.wikipedia.org/wiki/OK_Computer",
+   "cover": "/lists/albums/covers/374349651978248f6a3e6970e6d2df45.jpg"
+  },
+  {
+   "title": "Whatever and Ever Amen",
+   "meta": "Ben Folds Five · 1997",
+   "link": "https://en.wikipedia.org/wiki/Whatever_and_Ever_Amen",
+   "cover": "/lists/albums/covers/e3bcf85d5378e286243c443ee47176f6.jpg"
   },
   {
    "title": "Fush Yu Mang",
@@ -814,16 +814,10 @@
    "cover": "/lists/albums/covers/e67ac13b4d09e0d4638288009c58c7bb.jpg"
   },
   {
-   "title": "Enema of the State",
-   "meta": "Blink-182 · 1999",
-   "link": "https://en.wikipedia.org/wiki/Enema_of_the_State",
-   "cover": "/lists/albums/covers/cfef86e2059ca9f9d1b3e4ddfe5bca93.jpg"
-  },
-  {
-   "title": "Whatever and Ever Amen",
-   "meta": "Ben Folds Five · 1997",
-   "link": "https://en.wikipedia.org/wiki/Whatever_and_Ever_Amen",
-   "cover": "/lists/albums/covers/e3bcf85d5378e286243c443ee47176f6.jpg"
+   "title": "Purple",
+   "meta": "Stone Temple Pilots · 1994",
+   "link": "https://en.wikipedia.org/wiki/Purple_(Stone_Temple_Pilots_album)",
+   "cover": "/lists/albums/covers/abcaa02a288799ed8ddd60d11a11d459.jpg"
   },
   {
    "title": "Dirt",
@@ -838,58 +832,10 @@
    "cover": "/lists/albums/covers/4080e7de5809ae22fddb09796130ff04.jpg"
   },
   {
-   "title": "Ratatat",
-   "meta": "Ratatat · 2004",
-   "link": "https://en.wikipedia.org/wiki/Ratatat_(album)",
-   "cover": "/lists/albums/covers/58ef46d6d160680a761ad228f136614b.jpg"
-  },
-  {
-   "title": "Purple",
-   "meta": "Stone Temple Pilots · 1994",
-   "link": "https://en.wikipedia.org/wiki/Purple_(Stone_Temple_Pilots_album)",
-   "cover": "/lists/albums/covers/abcaa02a288799ed8ddd60d11a11d459.jpg"
-  },
-  {
    "title": "Toxicity",
    "meta": "System of a Down · 2001",
    "link": "https://en.wikipedia.org/wiki/Toxicity_(album)",
    "cover": "/lists/albums/covers/381b59ce5626d7dac8047b12907c5b79.jpg"
-  },
-  {
-   "title": "Californication",
-   "meta": "Red Hot Chili Peppers · 1999",
-   "link": "https://en.wikipedia.org/wiki/Californication_(album)",
-   "cover": "/lists/albums/covers/7d9517ab904773ca9f1dcd5799ec3a58.jpg"
-  },
-  {
-   "title": "Tenacious D",
-   "meta": "Tenacious D · 2001",
-   "link": "https://en.wikipedia.org/wiki/Tenacious_D_(album)",
-   "cover": "/lists/albums/covers/11df243f2efc59ecd5f2680b02080eb3.jpg"
-  },
-  {
-   "title": "Wildflower",
-   "meta": "The Avalanches · 2016",
-   "link": "https://en.wikipedia.org/wiki/Wildflower_(The_Avalanches_album)",
-   "cover": "/lists/albums/covers/ae1820019263e737411fd30299059636.jpg"
-  },
-  {
-   "title": "A City Dressed in Dynamite",
-   "meta": "That Handsome Devil · 2008",
-   "link": "https://musicbrainz.org/release-group/61ba8037-2ddf-353e-9f41-8f48cbe7d0c8",
-   "cover": "/lists/albums/covers/b8d01d140b0ca1a25a3949ccb014d00a.jpg"
-  },
-  {
-   "title": "Miike Snow",
-   "meta": "Miike Snow · 2009",
-   "link": "https://en.wikipedia.org/wiki/Miike_Snow_(album)",
-   "cover": "/lists/albums/covers/b1a3957c244925b9a41e22c03fc55078.jpg"
-  },
-  {
-   "title": "Fizzy Fuzzy Big & Buzzy",
-   "meta": "The Refreshments · 1996",
-   "link": "https://en.wikipedia.org/wiki/Fizzy_Fuzzy_Big_%26_Buzzy",
-   "cover": "/lists/albums/covers/9cd9237343121cded7a5c5e3905551db.jpg"
   },
   {
    "title": "At Folsom Prison",
@@ -898,10 +844,28 @@
    "cover": "/lists/albums/covers/3041eaef38440ed63e1c3f1f4ec48e85.jpg"
   },
   {
-   "title": "Hot Fuss",
-   "meta": "The Killers · 2004",
-   "link": "https://en.wikipedia.org/wiki/Hot_Fuss",
-   "cover": "/lists/albums/covers/6613ae23a33fa97b651521226514ea6d.jpg"
+   "title": "Enema of the State",
+   "meta": "Blink-182 · 1999",
+   "link": "https://en.wikipedia.org/wiki/Enema_of_the_State",
+   "cover": "/lists/albums/covers/cfef86e2059ca9f9d1b3e4ddfe5bca93.jpg"
+  },
+  {
+   "title": "Tenacious D",
+   "meta": "Tenacious D · 2001",
+   "link": "https://en.wikipedia.org/wiki/Tenacious_D_(album)",
+   "cover": "/lists/albums/covers/11df243f2efc59ecd5f2680b02080eb3.jpg"
+  },
+  {
+   "title": "Ill Communication",
+   "meta": "Beastie Boys · 1994",
+   "link": "https://en.wikipedia.org/wiki/Ill_Communication",
+   "cover": "/lists/albums/covers/c03f787b1c593c52cd0d72707f4c61e3.jpg"
+  },
+  {
+   "title": "Wildflower",
+   "meta": "The Avalanches · 2016",
+   "link": "https://en.wikipedia.org/wiki/Wildflower_(The_Avalanches_album)",
+   "cover": "/lists/albums/covers/ae1820019263e737411fd30299059636.jpg"
   },
   {
    "title": "Chocolate Starfish and the Hot Dog Flavored Water",
@@ -910,16 +874,34 @@
    "cover": "/lists/albums/covers/983d5318923ce97ebad26ee1574f0db6.jpg"
   },
   {
+   "title": "Electric Ladyland",
+   "meta": "Jimi Hendrix · 1968",
+   "link": "https://en.wikipedia.org/wiki/Electric_Ladyland",
+   "cover": "/lists/albums/covers/8fffce98a1c4c38a40eb486a7bdec1d4.jpg"
+  },
+  {
+   "title": "A City Dressed in Dynamite",
+   "meta": "That Handsome Devil · 2008",
+   "link": "https://musicbrainz.org/release-group/61ba8037-2ddf-353e-9f41-8f48cbe7d0c8",
+   "cover": "/lists/albums/covers/b8d01d140b0ca1a25a3949ccb014d00a.jpg"
+  },
+  {
+   "title": "Hot Fuss",
+   "meta": "The Killers · 2004",
+   "link": "https://en.wikipedia.org/wiki/Hot_Fuss",
+   "cover": "/lists/albums/covers/6613ae23a33fa97b651521226514ea6d.jpg"
+  },
+  {
+   "title": "Fizzy Fuzzy Big & Buzzy",
+   "meta": "The Refreshments · 1996",
+   "link": "https://en.wikipedia.org/wiki/Fizzy_Fuzzy_Big_%26_Buzzy",
+   "cover": "/lists/albums/covers/9cd9237343121cded7a5c5e3905551db.jpg"
+  },
+  {
    "title": "It's Blitz!",
    "meta": "Yeah Yeah Yeahs · 2009",
    "link": "https://en.wikipedia.org/wiki/It's_Blitz!",
    "cover": "/lists/albums/covers/8841aa09455c55375a0adbbb68f39ece.jpg"
-  },
-  {
-   "title": "The Mountain",
-   "meta": "Gorillaz · 2026",
-   "link": "https://en.wikipedia.org/wiki/The_Mountain_(Gorillaz_album)",
-   "cover": "/lists/albums/covers/838bc9de00ed0a828a9503f8a8f24684.jpg"
   },
   {
    "title": "Good Kid, M.A.A.D City",
@@ -934,10 +916,10 @@
    "cover": "/lists/albums/covers/250aa86c1bd4513358765a0c8013e04a.jpg"
   },
   {
-   "title": "In Colour",
-   "meta": "Jamie xx · 2015",
-   "link": "https://en.wikipedia.org/wiki/In_Colour_(Jamie_xx_album)",
-   "cover": "/lists/albums/covers/c7eeb116f6ed6bbbb0cbc68af191abb7.jpg"
+   "title": "Californication",
+   "meta": "Red Hot Chili Peppers · 1999",
+   "link": "https://en.wikipedia.org/wiki/Californication_(album)",
+   "cover": "/lists/albums/covers/7d9517ab904773ca9f1dcd5799ec3a58.jpg"
   },
   {
    "title": "Magnifique",
@@ -952,10 +934,22 @@
    "cover": "/lists/albums/covers/fc66a3566b8de03a3347fa68c280efa5.jpg"
   },
   {
+   "title": "In Colour",
+   "meta": "Jamie xx · 2015",
+   "link": "https://en.wikipedia.org/wiki/In_Colour_(Jamie_xx_album)",
+   "cover": "/lists/albums/covers/c7eeb116f6ed6bbbb0cbc68af191abb7.jpg"
+  },
+  {
    "title": "No One Ever Really Dies",
    "meta": "N.E.R.D · 2017",
    "link": "https://en.wikipedia.org/wiki/No_One_Ever_Really_Dies",
    "cover": "/lists/albums/covers/3dbf1f640678e6e6511a90226cd344c5.jpg"
+  },
+  {
+   "title": "The Mountain",
+   "meta": "Gorillaz · 2026",
+   "link": "https://en.wikipedia.org/wiki/The_Mountain_(Gorillaz_album)",
+   "cover": "/lists/albums/covers/838bc9de00ed0a828a9503f8a8f24684.jpg"
   },
   {
    "title": "Space Jam",
@@ -970,10 +964,10 @@
    "cover": "/lists/albums/covers/01ef00c8213c69c2ab1e46136286812e.jpg"
   },
   {
-   "title": "Guero",
-   "meta": "Beck · 2005",
-   "link": "https://en.wikipedia.org/wiki/Guero",
-   "cover": "/lists/albums/covers/86cf4f4aea64210ada79d76302b3379e.jpg"
+   "title": "Thriller",
+   "meta": "Michael Jackson · 1982",
+   "link": "https://en.wikipedia.org/wiki/Thriller_(album)",
+   "cover": "/lists/albums/covers/ea90a41534432a8913bb826afc174e85.jpg"
   },
   {
    "title": "Kill Bill Vol. 1 Original Soundtrack",
@@ -982,58 +976,22 @@
    "cover": "/lists/albums/covers/7b2ab80389f0d0cb6f9dedf24894d9a7.jpg"
   },
   {
-   "title": "Humanz",
-   "meta": "Gorillaz · 2017",
-   "link": "https://en.wikipedia.org/wiki/Humanz",
-   "cover": "/lists/albums/covers/f5a259da9eb723b0f37faffa336fe23c.jpg"
+   "title": "Guero",
+   "meta": "Beck · 2005",
+   "link": "https://en.wikipedia.org/wiki/Guero",
+   "cover": "/lists/albums/covers/86cf4f4aea64210ada79d76302b3379e.jpg"
   },
   {
-   "title": "Idealism",
-   "meta": "Digitalism · 2007",
-   "link": "https://en.wikipedia.org/wiki/Idealism_(album)",
-   "cover": "/lists/albums/covers/379aef6c2c8411c391f5d367f22aaf04.jpg"
-  },
-  {
-   "title": "Back to Black",
-   "meta": "Amy Winehouse · 2006",
-   "link": "https://en.wikipedia.org/wiki/Back_to_Black",
-   "cover": "/lists/albums/covers/fa04167c0744724b75f753be56e04c0c.jpg"
-  },
-  {
-   "title": "Neon Bible",
-   "meta": "Arcade Fire · 2007",
-   "link": "https://en.wikipedia.org/wiki/Neon_Bible",
-   "cover": "/lists/albums/covers/2c586d0d0c8fbe05590f0c2d80ec3af5.jpg"
-  },
-  {
-   "title": "Shake Your Money Maker",
-   "meta": "The Black Crowes · 1990",
-   "link": "https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album)",
-   "cover": "/lists/albums/covers/10b4cfcd9ec938dcc189d354fd9c28e5.jpg"
-  },
-  {
-   "title": "Blood Sugar Sex Magik",
-   "meta": "Red Hot Chili Peppers · 1991",
-   "link": "https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik",
-   "cover": "/lists/albums/covers/faf36995a9e8c3df512e8dd35d29135f.jpg"
-  },
-  {
-   "title": "Core",
-   "meta": "Stone Temple Pilots · 1992",
-   "link": "https://en.wikipedia.org/wiki/Core_(album)",
-   "cover": "/lists/albums/covers/0fdeffc18c35dc3ee6e4b5644502f658.jpg"
+   "title": "Miike Snow",
+   "meta": "Miike Snow · 2009",
+   "link": "https://en.wikipedia.org/wiki/Miike_Snow_(album)",
+   "cover": "/lists/albums/covers/b1a3957c244925b9a41e22c03fc55078.jpg"
   },
   {
    "title": "\"Awaken, My Love!\"",
    "meta": "Childish Gambino · 2016",
    "link": "https://en.wikipedia.org/wiki/%22Awaken,_My_Love!%22",
    "cover": "/lists/albums/covers/c54642c54c81e03321e82bb5437a8713.jpg"
-  },
-  {
-   "title": "Electric Ladyland",
-   "meta": "Jimi Hendrix · 1968",
-   "link": "https://en.wikipedia.org/wiki/Electric_Ladyland",
-   "cover": "/lists/albums/covers/8fffce98a1c4c38a40eb486a7bdec1d4.jpg"
   },
   {
    "title": "Torches",
@@ -1048,16 +1006,10 @@
    "cover": "/lists/albums/covers/1e5d20292eaf3ab14e5b5a15bf6e8ac9.jpg"
   },
   {
-   "title": "Thriller",
-   "meta": "Michael Jackson · 1982",
-   "link": "https://en.wikipedia.org/wiki/Thriller_(album)",
-   "cover": "/lists/albums/covers/ea90a41534432a8913bb826afc174e85.jpg"
-  },
-  {
-   "title": "Aja",
-   "meta": "Steely Dan · 1977",
-   "link": "https://en.wikipedia.org/wiki/Aja_(album)",
-   "cover": "/lists/albums/covers/155e27c1595cca6fc85c471785e3696d.jpg"
+   "title": "Shake Your Money Maker",
+   "meta": "The Black Crowes · 1990",
+   "link": "https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album)",
+   "cover": "/lists/albums/covers/10b4cfcd9ec938dcc189d354fd9c28e5.jpg"
   },
   {
    "title": "Angles",
@@ -1066,16 +1018,10 @@
    "cover": "/lists/albums/covers/7031c051da6dead2a06e4eea394d3b3a.jpg"
   },
   {
-   "title": "Antics",
-   "meta": "Interpol · 2004",
-   "link": "https://en.wikipedia.org/wiki/Antics_(album)",
-   "cover": "/lists/albums/covers/cfb6211ae65eb66478c34c3f494dc691.jpg"
-  },
-  {
-   "title": "Fashion Nugget",
-   "meta": "CAKE · 1996",
-   "link": "https://en.wikipedia.org/wiki/Fashion_Nugget",
-   "cover": "/lists/albums/covers/a82d690e465ca6730d161b6f8425f2e9.jpg"
+   "title": "Back to Black",
+   "meta": "Amy Winehouse · 2006",
+   "link": "https://en.wikipedia.org/wiki/Back_to_Black",
+   "cover": "/lists/albums/covers/fa04167c0744724b75f753be56e04c0c.jpg"
   },
   {
    "title": "Hit Me Hard and Soft",
@@ -1084,10 +1030,46 @@
    "cover": "/lists/albums/covers/6165c10fac517a0f185407fec897caea.jpg"
   },
   {
+   "title": "Blood Sugar Sex Magik",
+   "meta": "Red Hot Chili Peppers · 1991",
+   "link": "https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik",
+   "cover": "/lists/albums/covers/faf36995a9e8c3df512e8dd35d29135f.jpg"
+  },
+  {
+   "title": "Fashion Nugget",
+   "meta": "CAKE · 1996",
+   "link": "https://en.wikipedia.org/wiki/Fashion_Nugget",
+   "cover": "/lists/albums/covers/a82d690e465ca6730d161b6f8425f2e9.jpg"
+  },
+  {
+   "title": "Never Enough",
+   "meta": "Turnstile · 2025",
+   "link": "https://en.wikipedia.org/wiki/Never_Enough_(Turnstile_album)",
+   "cover": "/lists/albums/covers/a5bbac971305c1ec6c8e44fd96221530.jpg"
+  },
+  {
+   "title": "Antics",
+   "meta": "Interpol · 2004",
+   "link": "https://en.wikipedia.org/wiki/Antics_(album)",
+   "cover": "/lists/albums/covers/cfb6211ae65eb66478c34c3f494dc691.jpg"
+  },
+  {
    "title": "Chicago Transit Authority",
    "meta": "Chicago · 1969",
    "link": "https://en.wikipedia.org/wiki/Chicago_Transit_Authority_(album)",
    "cover": "/lists/albums/covers/6b3bd6a7d1f8e30f95218daea222ead3.jpg"
+  },
+  {
+   "title": "Aja",
+   "meta": "Steely Dan · 1977",
+   "link": "https://en.wikipedia.org/wiki/Aja_(album)",
+   "cover": "/lists/albums/covers/155e27c1595cca6fc85c471785e3696d.jpg"
+  },
+  {
+   "title": "Breakfast in America",
+   "meta": "Supertramp · 1979",
+   "link": "https://en.wikipedia.org/wiki/Breakfast_in_America",
+   "cover": "/lists/albums/covers/5e40b938accd3adb54d84119fa5ce861.jpg"
   },
   {
    "title": "Viva la Vida or Death and All His Friends",
@@ -1102,16 +1084,16 @@
    "cover": "/lists/albums/covers/94766a301cd0e76b09eabc24755a4a93.jpg"
   },
   {
-   "title": "We're New Here",
-   "meta": "Gil Scott-Heron · 2011",
-   "link": "https://en.wikipedia.org/wiki/We're_New_Here",
-   "cover": "/lists/albums/covers/c2da4c6996494374a560172b75c85628.jpg"
-  },
-  {
    "title": "Laika Come Home",
    "meta": "Gorillaz · 2002",
    "link": "https://en.wikipedia.org/wiki/Laika_Come_Home",
    "cover": "/lists/albums/covers/94df98d5b86c6b898e0f2603cc1b5a7e.jpg"
+  },
+  {
+   "title": "We're New Here",
+   "meta": "Gil Scott-Heron · 2011",
+   "link": "https://en.wikipedia.org/wiki/We're_New_Here",
+   "cover": "/lists/albums/covers/c2da4c6996494374a560172b75c85628.jpg"
   },
   {
    "title": "Reasonable Doubt",
@@ -1126,16 +1108,16 @@
    "cover": "/lists/albums/covers/60b1f73fc49937d8d861eaf1f2285f19.jpg"
   },
   {
+   "title": "Dawn FM",
+   "meta": "The Weeknd · 2022",
+   "link": "https://en.wikipedia.org/wiki/Dawn_FM",
+   "cover": "/lists/albums/covers/0db779b7bba31869a70e53eb537fdad1.jpg"
+  },
+  {
    "title": "Audio, Video, Disco.",
    "meta": "Justice · 2011",
    "link": "https://en.wikipedia.org/wiki/Audio%2C_Video%2C_Disco",
    "cover": "/lists/albums/covers/36315b07a2beb5127547b55d7859960a.jpg"
-  },
-  {
-   "title": "Little Dark Age",
-   "meta": "MGMT · 2018",
-   "link": "https://en.wikipedia.org/wiki/Little_Dark_Age",
-   "cover": "/lists/albums/covers/1dfe7b34134d3aaa64193c8d7b9c3d3b.jpg"
   },
   {
    "title": "iii",
@@ -1150,34 +1132,16 @@
    "cover": "/lists/albums/covers/c1a32dc0b8e882f68f4d727c4262d4ed.jpg"
   },
   {
-   "title": "Melody A.M.",
-   "meta": "Röyksopp · 2001",
-   "link": "https://en.wikipedia.org/wiki/Melody_A.M.",
-   "cover": "/lists/albums/covers/78704cbdb6d83ca301a67cad5f8a7636.jpg"
+   "title": "Computer World",
+   "meta": "Kraftwerk · 1981",
+   "link": "https://en.wikipedia.org/wiki/Computer_World",
+   "cover": "/lists/albums/covers/2aa0da129d77bc8b7ff9dc2d009f7867.jpg"
   },
   {
-   "title": "First Impressions of Earth",
-   "meta": "The Strokes · 2005",
-   "link": "https://en.wikipedia.org/wiki/First_Impressions_of_Earth",
-   "cover": "/lists/albums/covers/3689fe32ff645643c618d3296dfbee50.jpg"
-  },
-  {
-   "title": "Dawn FM",
-   "meta": "The Weeknd · 2022",
-   "link": "https://en.wikipedia.org/wiki/Dawn_FM",
-   "cover": "/lists/albums/covers/0db779b7bba31869a70e53eb537fdad1.jpg"
-  },
-  {
-   "title": "Cyclorama",
-   "meta": "Polo & Pan · 2021",
-   "link": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC",
-   "cover": "/lists/albums/covers/12b06a92af5e5b39952eee2d28a3ea33.jpg"
-  },
-  {
-   "title": "The Music of Raymond Scott: Reckless Nights and Turkish Twilights",
-   "meta": "Raymond Scott · 1992",
-   "link": "https://open.spotify.com/album/5DCG6oumDvLvBWdA5gfk7z",
-   "cover": "/lists/albums/covers/1f0ea5ff79c92af555e90cd9d0fc2e3e.jpg"
+   "title": "Autobahn",
+   "meta": "Kraftwerk · 1974",
+   "link": "https://en.wikipedia.org/wiki/Autobahn_(album)",
+   "cover": "/lists/albums/covers/0f6375a5e0d5070901037c023a7a1bbf.jpg"
   },
   {
    "title": "KPM 1000 Series: Music of the 30's",
@@ -1186,22 +1150,58 @@
    "cover": "/lists/albums/covers/0b04d485c2cab2c4d560bd1ab49dd0fe.jpg"
   },
   {
-   "title": "Breakfast in America",
-   "meta": "Supertramp · 1979",
-   "link": "https://en.wikipedia.org/wiki/Breakfast_in_America",
-   "cover": "/lists/albums/covers/5e40b938accd3adb54d84119fa5ce861.jpg"
-  },
-  {
-   "title": "Never Enough",
-   "meta": "Turnstile · 2025",
-   "link": "https://en.wikipedia.org/wiki/Never_Enough_(Turnstile_album)",
-   "cover": "/lists/albums/covers/a5bbac971305c1ec6c8e44fd96221530.jpg"
-  },
-  {
    "title": "Aftermath",
    "meta": "The Rolling Stones · 1966",
    "link": "https://en.wikipedia.org/wiki/Aftermath_(Rolling_Stones_album)",
    "cover": "/lists/albums/covers/3cfc5fa5454ae15a71f06c8756e3c069.jpg"
+  },
+  {
+   "title": "Mid Air",
+   "meta": "Romy · 2023",
+   "link": "https://en.wikipedia.org/wiki/Mid_Air_(Romy_album)",
+   "cover": "/lists/albums/covers/8334b0b646ff614cc7da39e9138cd4ba.jpg"
+  },
+  {
+   "title": "Doolittle",
+   "meta": "Pixies · 1989",
+   "link": "https://en.wikipedia.org/wiki/Doolittle_(album)",
+   "cover": "/lists/albums/covers/489b465d9ac647ae2d5e81cc043d6c27.jpg"
+  },
+  {
+   "title": "3 Feet High and Rising",
+   "meta": "De La Soul · 1989",
+   "link": "https://en.wikipedia.org/wiki/3_Feet_High_and_Rising",
+   "cover": "/lists/albums/covers/e48b8ae9697ceb2bf8d4bfc0db5b996e.jpg"
+  },
+  {
+   "title": "It Takes a Nation of Millions to Hold Us Back",
+   "meta": "Public Enemy · 1988",
+   "link": "https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back",
+   "cover": "/lists/albums/covers/3421eaa71e599073a31f4ac7cc9d8fea.jpg"
+  },
+  {
+   "title": "Songs from the Big Chair",
+   "meta": "Tears for Fears · 1985",
+   "link": "https://en.wikipedia.org/wiki/Songs_from_the_Big_Chair",
+   "cover": "/lists/albums/covers/89a7f131417e491bfb50657793c89be2.jpg"
+  },
+  {
+   "title": "Back in Black",
+   "meta": "AC/DC · 1980",
+   "link": "https://en.wikipedia.org/wiki/Back_in_Black",
+   "cover": "/lists/albums/covers/4c722af32d87e42b56163dc869d04aff.jpg"
+  },
+  {
+   "title": "Humanz",
+   "meta": "Gorillaz · 2017",
+   "link": "https://en.wikipedia.org/wiki/Humanz",
+   "cover": "/lists/albums/covers/f5a259da9eb723b0f37faffa336fe23c.jpg"
+  },
+  {
+   "title": "Idealism",
+   "meta": "Digitalism · 2007",
+   "link": "https://en.wikipedia.org/wiki/Idealism_(album)",
+   "cover": "/lists/albums/covers/379aef6c2c8411c391f5d367f22aaf04.jpg"
   }
  ]
 }
