@@ -1,7 +1,7 @@
 {
  "title": "Favorite Games",
  "description": "My all-time favorite video games, ranked.",
- "synced": "2026-11-15",
+ "synced": "2026-11-19",
  "items": [
   {
    "title": "Super Mario World",
@@ -160,6 +160,12 @@
    "cover": "/lists/games/covers/9081819a835a1378004d33d5afe58117.jpg"
   },
   {
+   "title": "Scorched Earth",
+   "meta": "1991",
+   "link": "https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)",
+   "cover": "/lists/games/covers/7d0cdc6cd33751e8f89e0e870555df23.jpg"
+  },
+  {
    "title": "Red Dead Redemption 2",
    "meta": "2018",
    "link": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
@@ -170,12 +176,6 @@
    "meta": "2023",
    "link": "https://en.wikipedia.org/wiki/Baldur's_Gate_3",
    "cover": "/lists/games/covers/c896e3ecdc97b08bc7b98f3a0c876951.jpg"
-  },
-  {
-   "title": "Scorched Earth",
-   "meta": "1991",
-   "link": "https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)",
-   "cover": "/lists/games/covers/7d0cdc6cd33751e8f89e0e870555df23.jpg"
   },
   {
    "title": "Call of Duty 4: Modern Warfare",
@@ -200,12 +200,6 @@
    "meta": "2004",
    "link": "https://en.wikipedia.org/wiki/Rome:_Total_War",
    "cover": "/lists/games/covers/1ecb705ca44ca844b81f797a589608a6.jpg"
-  },
-  {
-   "title": "Tom Clancy's Splinter Cell: Chaos Theory",
-   "meta": "2005",
-   "link": "https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell%3A_Chaos_Theory",
-   "cover": "/lists/games/covers/f9ae1de52bc519c1fe45a3df1bbd4306.jpg"
   },
   {
    "title": "Mario Kart: Super Circuit",
@@ -286,6 +280,12 @@
    "cover": "/lists/games/covers/3795b060d1c66c18522add6bb254730c.jpg"
   },
   {
+   "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell%3A_Chaos_Theory",
+   "cover": "/lists/games/covers/f9ae1de52bc519c1fe45a3df1bbd4306.jpg"
+  },
+  {
    "title": "Call of Duty: Modern Warfare 2",
    "meta": "2009",
    "link": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_2",
@@ -358,6 +358,12 @@
    "cover": "/lists/games/covers/1cc3be08b33c59fdf796718b40ed3152.jpg"
   },
   {
+   "title": "Slime Volleyball",
+   "meta": "1999",
+   "link": "https://slimegames.co.uk/slime-volleyball/",
+   "cover": "/lists/games/covers/eaeea1611ebb5eb6e13184e01cfde67e.jpg"
+  },
+  {
    "title": "Total War: Warhammer II",
    "meta": "2017",
    "link": "https://en.wikipedia.org/wiki/Total_War:_Warhammer_II",
@@ -376,16 +382,10 @@
    "cover": "/lists/games/covers/c830bcf83995cfd275d8a3c43ed81e15.jpg"
   },
   {
-   "title": "Grand Theft Auto IV",
-   "meta": "2008",
-   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
-   "cover": "/lists/games/covers/2ee8b127dc0dd1c98c1f5c5158b1f7ee.jpg"
-  },
-  {
-   "title": "Slime Volleyball",
-   "meta": "1999",
-   "link": "https://slimegames.co.uk/slime-volleyball/",
-   "cover": "/lists/games/covers/eaeea1611ebb5eb6e13184e01cfde67e.jpg"
+   "title": "RollerCoaster Tycoon 2",
+   "meta": "2002",
+   "link": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2",
+   "cover": "/lists/games/covers/1b6fe6d02ed7505d246fd2381536215c.jpg"
   },
   {
    "title": "MLB Slugfest 20-03",
@@ -394,22 +394,10 @@
    "cover": "/lists/games/covers/741c29816061c77d707b63aae34cbb3a.jpg"
   },
   {
-   "title": "Cartoon Orbit",
-   "meta": "2000",
-   "link": "https://en.wikipedia.org/wiki/Cartoon_Orbit",
-   "cover": "/lists/games/covers/92931c3b113f12cc83c6ee6c483dc783.jpg"
-  },
-  {
    "title": "Super Mario Sunshine",
    "meta": "2002",
    "link": "https://en.wikipedia.org/wiki/Super_Mario_Sunshine",
    "cover": "/lists/games/covers/475a44f5e8b32759d15f66c4923b3b2b.jpg"
-  },
-  {
-   "title": "GORN",
-   "meta": "2019",
-   "link": "https://en.wikipedia.org/wiki/Gorn_(video_game)",
-   "cover": "/lists/games/covers/f016bd724dc24d2de3b8ce8db6e8f606.jpg"
   },
   {
    "title": "Quibble Race",
@@ -418,16 +406,16 @@
    "cover": "/lists/games/covers/22f46b84dc5257956c33b08339f652aa.jpg"
   },
   {
-   "title": "SkiFree",
-   "meta": "1991",
-   "link": "https://en.wikipedia.org/wiki/SkiFree",
-   "cover": "/lists/games/covers/241ef503efaf41f1a1e1f5e8ff958fbc.jpg"
-  },
-  {
    "title": "Worms Armageddon",
    "meta": "1999",
    "link": "https://en.wikipedia.org/wiki/Worms_Armageddon",
    "cover": "/lists/games/covers/d35db2f8a36a34c4a247f513f441b565.jpg"
+  },
+  {
+   "title": "GORN",
+   "meta": "2019",
+   "link": "https://en.wikipedia.org/wiki/Gorn_(video_game)",
+   "cover": "/lists/games/covers/f016bd724dc24d2de3b8ce8db6e8f606.jpg"
   },
   {
    "title": "Mario Kart World",
@@ -442,28 +430,16 @@
    "cover": "/lists/games/covers/5bee2119f6a8a8e9a25341765af4701b.jpg"
   },
   {
-   "title": "RollerCoaster Tycoon 2",
-   "meta": "2002",
-   "link": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2",
-   "cover": "/lists/games/covers/1b6fe6d02ed7505d246fd2381536215c.jpg"
+   "title": "Twisted Metal 2",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Twisted_Metal_2",
+   "cover": "/lists/games/covers/463e9ad72748545ff52b332f0046e04d.jpg"
   },
   {
    "title": "Overwatch",
    "meta": "2016",
    "link": "https://en.wikipedia.org/wiki/Overwatch_(2016_video_game)",
    "cover": "/lists/games/covers/df3089cbb03e1828eae6c0abae6838cc.jpg"
-  },
-  {
-   "title": "NASCAR Thunder 2004",
-   "meta": "2003",
-   "link": "https://en.wikipedia.org/wiki/NASCAR_Thunder_2004",
-   "cover": "/lists/games/covers/61280c692de2d42767245513887cad49.jpg"
-  },
-  {
-   "title": "Twisted Metal 2",
-   "meta": "1996",
-   "link": "https://en.wikipedia.org/wiki/Twisted_Metal_2",
-   "cover": "/lists/games/covers/463e9ad72748545ff52b332f0046e04d.jpg"
   },
   {
    "title": "SOCOM U.S. Navy SEALs: Fireteam Bravo",
@@ -478,16 +454,16 @@
    "cover": "/lists/games/covers/7d4e1ff8bfdb79419ee0a157782a6a01.jpg"
   },
   {
-   "title": "Zoo Tycoon",
-   "meta": "2001",
-   "link": "https://en.wikipedia.org/wiki/Zoo_Tycoon_(2001_video_game)",
-   "cover": "/lists/games/covers/45ef33d0ae9fb94b0bd0b695f003268c.jpg"
-  },
-  {
    "title": "Medieval II: Total War",
    "meta": "2006",
    "link": "https://en.wikipedia.org/wiki/Medieval_II%3A_Total_War",
    "cover": "/lists/games/covers/504ce5cae779f1fd5048230b5761da4d.jpg"
+  },
+  {
+   "title": "NASCAR Thunder 2004",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/NASCAR_Thunder_2004",
+   "cover": "/lists/games/covers/61280c692de2d42767245513887cad49.jpg"
   },
   {
    "title": "Wario Land: Super Mario Land 3",
@@ -502,10 +478,10 @@
    "cover": "/lists/games/covers/ebd6263dda81f22e90676eebefbbe645.jpg"
   },
   {
-   "title": "Logical Journey of the Zoombinis",
-   "meta": "1996",
-   "link": "https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis",
-   "cover": "/lists/games/covers/c90f4da8f8fd014b610197d788623cc4.jpg"
+   "title": "Borderlands",
+   "meta": "2009",
+   "link": "https://en.wikipedia.org/wiki/Borderlands_(video_game)",
+   "cover": "/lists/games/covers/615840af696df94fd4fe46fb794b8da5.jpg"
   },
   {
    "title": "Sly Cooper and the Thievius Raccoonus",
@@ -514,28 +490,16 @@
    "cover": "/lists/games/covers/3dd84acdf1428296136c9d351e216158.jpg"
   },
   {
-   "title": "NBA Jam",
-   "meta": "1993",
-   "link": "https://en.wikipedia.org/wiki/NBA_Jam_(1993_video_game)",
-   "cover": "/lists/games/covers/99419860b61706de64fe886bcf664f73.jpg"
-  },
-  {
-   "title": "Borderlands",
-   "meta": "2009",
-   "link": "https://en.wikipedia.org/wiki/Borderlands_(video_game)",
-   "cover": "/lists/games/covers/615840af696df94fd4fe46fb794b8da5.jpg"
-  },
-  {
-   "title": "EyeToy: Play",
-   "meta": "2003",
-   "link": "https://en.wikipedia.org/wiki/EyeToy%3A_Play",
-   "cover": "/lists/games/covers/0db13003c42cad19fecb70a80a7a5182.jpg"
-  },
-  {
    "title": "Spyro the Dragon",
    "meta": "1998",
    "link": "https://en.wikipedia.org/wiki/Spyro_the_Dragon",
    "cover": "/lists/games/covers/1ad0f3777f15002ab2b5a70628914868.jpg"
+  },
+  {
+   "title": "Logical Journey of the Zoombinis",
+   "meta": "1996",
+   "link": "https://en.wikipedia.org/wiki/Logical_Journey_of_the_Zoombinis",
+   "cover": "/lists/games/covers/c90f4da8f8fd014b610197d788623cc4.jpg"
   },
   {
    "title": "N",
@@ -544,16 +508,10 @@
    "cover": "/lists/games/covers/91a84abd3e95e5073cfaf6a7cbdd193b.jpg"
   },
   {
-   "title": "GoldenEye 007",
-   "meta": "1997",
-   "link": "https://en.wikipedia.org/wiki/GoldenEye_007",
-   "cover": "/lists/games/covers/9cae9ce5f3a2b85103f6bcd5b1e80d52.jpg"
-  },
-  {
-   "title": "The Simpsons: Hit & Run",
+   "title": "EyeToy: Play",
    "meta": "2003",
-   "link": "https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run",
-   "cover": "/lists/games/covers/741154c23c944d54eafaa1034b5896f8.jpg"
+   "link": "https://en.wikipedia.org/wiki/EyeToy%3A_Play",
+   "cover": "/lists/games/covers/0db13003c42cad19fecb70a80a7a5182.jpg"
   },
   {
    "title": "Pocket Tanks",
@@ -562,22 +520,28 @@
    "cover": "/lists/games/covers/858ddff8e17aa7c68bdb147bfd52ce1c.jpg"
   },
   {
-   "title": "Drift 'n' Burn 365",
-   "meta": "2007",
-   "link": "https://backloggd.com/games/drift-n-burn-365/",
-   "cover": "/lists/games/covers/c61c19f88216e983c183bf599d372b88.jpg"
+   "title": "NBA Jam",
+   "meta": "1993",
+   "link": "https://en.wikipedia.org/wiki/NBA_Jam_(1993_video_game)",
+   "cover": "/lists/games/covers/99419860b61706de64fe886bcf664f73.jpg"
   },
   {
-   "title": "Wipeout Pure",
-   "meta": "2005",
-   "link": "https://en.wikipedia.org/wiki/Wipeout_Pure",
-   "cover": "/lists/games/covers/696c892bb3e67da60aaaf0a1d4a25ae3.jpg"
+   "title": "Cartoon Orbit",
+   "meta": "2000",
+   "link": "https://en.wikipedia.org/wiki/Cartoon_Orbit",
+   "cover": "/lists/games/covers/92931c3b113f12cc83c6ee6c483dc783.jpg"
   },
   {
    "title": "Wario Land II",
    "meta": "1998",
    "link": "https://en.wikipedia.org/wiki/Wario_Land_II",
    "cover": "/lists/games/covers/e9fc5525c4fe886c47a6bebc46000e59.jpg"
+  },
+  {
+   "title": "The Simpsons: Hit & Run",
+   "meta": "2003",
+   "link": "https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run",
+   "cover": "/lists/games/covers/741154c23c944d54eafaa1034b5896f8.jpg"
   },
   {
    "title": "Cruis'n USA",
@@ -592,16 +556,52 @@
    "cover": "/lists/games/covers/1145fb187969c27b81ea997e1be145fd.jpg"
   },
   {
-   "title": "Ms. Pac-Man",
-   "meta": "1982",
-   "link": "https://en.wikipedia.org/wiki/Ms._Pac-Man",
-   "cover": "/lists/games/covers/7631b2d4e22f0277e3a66a2d95c1e31a.jpg"
+   "title": "SkiFree",
+   "meta": "1991",
+   "link": "https://en.wikipedia.org/wiki/SkiFree",
+   "cover": "/lists/games/covers/241ef503efaf41f1a1e1f5e8ff958fbc.jpg"
   },
   {
    "title": "Mavis Beacon Teaches Typing",
    "meta": "1987",
    "link": "https://en.wikipedia.org/wiki/Mavis_Beacon_Teaches_Typing",
    "cover": "/lists/games/covers/c3faa5cb76699e71f98b010d4526227a.jpg"
+  },
+  {
+   "title": "Ms. Pac-Man",
+   "meta": "1982",
+   "link": "https://en.wikipedia.org/wiki/Ms._Pac-Man",
+   "cover": "/lists/games/covers/7631b2d4e22f0277e3a66a2d95c1e31a.jpg"
+  },
+  {
+   "title": "Drift 'n' Burn 365",
+   "meta": "2007",
+   "link": "https://backloggd.com/games/drift-n-burn-365/",
+   "cover": "/lists/games/covers/c61c19f88216e983c183bf599d372b88.jpg"
+  },
+  {
+   "title": "Wipeout Pure",
+   "meta": "2005",
+   "link": "https://en.wikipedia.org/wiki/Wipeout_Pure",
+   "cover": "/lists/games/covers/696c892bb3e67da60aaaf0a1d4a25ae3.jpg"
+  },
+  {
+   "title": "RollerCoaster Tycoon",
+   "meta": "1999",
+   "link": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)",
+   "cover": "/lists/games/covers/e3c71a918cb4feaa6d3196569fa016be.jpg"
+  },
+  {
+   "title": "Grand Theft Auto VI",
+   "meta": "2026",
+   "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "cover": "/lists/games/covers/4d13f20eb3096a98f91a9087cc4310f3.jpg"
+  },
+  {
+   "title": "Astro Bot",
+   "meta": "2024",
+   "link": "https://en.wikipedia.org/wiki/Astro_Bot",
+   "cover": "/lists/games/covers/266412d9b8280032be9a4441eb284eec.jpg"
   }
  ]
 }
